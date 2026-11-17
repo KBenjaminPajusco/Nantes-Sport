@@ -1,0 +1,797 @@
+{
+  "Stade de la Beaujoire": {
+    "lat": 47.256,
+    "lon": -1.5248,
+    "city": "Nantes"
+  },
+  "Stade de la Beaujoire - Louis Fonteneau": {
+    "lat": 47.256,
+    "lon": -1.5248,
+    "city": "Nantes"
+  },
+  "Stade Louis-Fonteneau": {
+    "lat": 47.256,
+    "lon": -1.5248,
+    "city": "Nantes"
+  },
+  "La Beaujoire": {
+    "lat": 47.256,
+    "lon": -1.5248,
+    "city": "Nantes"
+  },
+  "Beaujoire": {
+    "lat": 47.256,
+    "lon": -1.5248,
+    "city": "Nantes"
+  },
+  "Parc des Expositions de la Beaujoire": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Parc des Expositions": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Parc des expositions de Nantes": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Exponantes": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Hall XXL": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Neodif XXL": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Salle XXL": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Parc des Expositions de la Beaujoire (Hall XXL)": {
+    "lat": 47.2585,
+    "lon": -1.5324,
+    "city": "Nantes"
+  },
+  "Le Laps": {
+    "lat": 47.2568,
+    "lon": -1.5326,
+    "city": "Nantes"
+  },
+  "Le LAPS": {
+    "lat": 47.2568,
+    "lon": -1.5326,
+    "city": "Nantes"
+  },
+  "LAPS": {
+    "lat": 47.2568,
+    "lon": -1.5326,
+    "city": "Nantes"
+  },
+  "H Arena": {
+    "lat": 47.2096,
+    "lon": -1.5365,
+    "city": "Nantes"
+  },
+  "Palais des Sports de Beaulieu": {
+    "lat": 47.2096,
+    "lon": -1.5365,
+    "city": "Nantes"
+  },
+  "Palais des sports Beaulieu": {
+    "lat": 47.2096,
+    "lon": -1.5365,
+    "city": "Nantes"
+  },
+  "Palais des Sports Beaulieu": {
+    "lat": 47.2096,
+    "lon": -1.5365,
+    "city": "Nantes"
+  },
+  "H Arena (Palais des Sports de Beaulieu)": {
+    "lat": 47.2096,
+    "lon": -1.5365,
+    "city": "Nantes"
+  },
+  "Complexe sportif Mangin-Beaulieu": {
+    "lat": 47.2048,
+    "lon": -1.5418,
+    "city": "Nantes"
+  },
+  "Salle Mangin Beaulieu": {
+    "lat": 47.2048,
+    "lon": -1.5418,
+    "city": "Nantes"
+  },
+  "Complexe Sportif Mangin Beaulieu": {
+    "lat": 47.2048,
+    "lon": -1.5418,
+    "city": "Nantes"
+  },
+  "Mangin Beaulieu": {
+    "lat": 47.2048,
+    "lon": -1.5418,
+    "city": "Nantes"
+  },
+  "Salle Mangin-Beaulieu": {
+    "lat": 47.2048,
+    "lon": -1.5418,
+    "city": "Nantes"
+  },
+  "Complexe sportif Mangin Beaulieu": {
+    "lat": 47.2048,
+    "lon": -1.5418,
+    "city": "Nantes"
+  },
+  "Salle sportive métropolitaine de la Trocardière": {
+    "lat": 47.1832,
+    "lon": -1.57,
+    "city": "Rezé"
+  },
+  "La Trocardière": {
+    "lat": 47.1832,
+    "lon": -1.57,
+    "city": "Rezé"
+  },
+  "Trocardière": {
+    "lat": 47.1832,
+    "lon": -1.57,
+    "city": "Rezé"
+  },
+  "Salle Sportive Métropolitaine de Rezé": {
+    "lat": 47.1832,
+    "lon": -1.57,
+    "city": "Rezé"
+  },
+  "Salle de la Trocardière": {
+    "lat": 47.1832,
+    "lon": -1.57,
+    "city": "Rezé"
+  },
+  "Salle sportive métropolitaine de Rezé": {
+    "lat": 47.1832,
+    "lon": -1.57,
+    "city": "Rezé"
+  },
+  "Patinoire de la Trocardière": {
+    "lat": 47.1823,
+    "lon": -1.5727,
+    "city": "Rezé"
+  },
+  "Patinoire olympique de Rezé": {
+    "lat": 47.1823,
+    "lon": -1.5727,
+    "city": "Rezé"
+  },
+  "Patinoire de Rezé": {
+    "lat": 47.1823,
+    "lon": -1.5727,
+    "city": "Rezé"
+  },
+  "Patinoire du Petit Port": {
+    "lat": 47.2428,
+    "lon": -1.5555,
+    "city": "Nantes"
+  },
+  "Patinoire du Petit-Port": {
+    "lat": 47.2428,
+    "lon": -1.5555,
+    "city": "Nantes"
+  },
+  "Petit Port (patinoire)": {
+    "lat": 47.2428,
+    "lon": -1.5555,
+    "city": "Nantes"
+  },
+  "Piscine du Petit Port": {
+    "lat": 47.2428,
+    "lon": -1.5545,
+    "city": "Nantes"
+  },
+  "Piscine du Petit-Port": {
+    "lat": 47.2428,
+    "lon": -1.5545,
+    "city": "Nantes"
+  },
+  "Centre de loisirs du Petit Port": {
+    "lat": 47.2428,
+    "lon": -1.5545,
+    "city": "Nantes"
+  },
+  "Hippodrome du Petit Port": {
+    "lat": 47.2476,
+    "lon": -1.5677,
+    "city": "Nantes"
+  },
+  "Hippodrome de Nantes": {
+    "lat": 47.2476,
+    "lon": -1.5677,
+    "city": "Nantes"
+  },
+  "Hippodrome du Petit-Port": {
+    "lat": 47.2476,
+    "lon": -1.5677,
+    "city": "Nantes"
+  },
+  "Hippodrome de Nantes Petit Port": {
+    "lat": 47.2476,
+    "lon": -1.5677,
+    "city": "Nantes"
+  },
+  "Stadium Pierre-Quinon": {
+    "lat": 47.2487,
+    "lon": -1.5556,
+    "city": "Nantes"
+  },
+  "Stadium Pierre Quinon": {
+    "lat": 47.2487,
+    "lon": -1.5556,
+    "city": "Nantes"
+  },
+  "Stadium métropolitain Pierre-Quinon": {
+    "lat": 47.2487,
+    "lon": -1.5556,
+    "city": "Nantes"
+  },
+  "Boulevard Guy Mollet": {
+    "lat": 47.2508,
+    "lon": -1.5538,
+    "city": "Nantes"
+  },
+  "Zénith Nantes Métropole": {
+    "lat": 47.2287,
+    "lon": -1.628,
+    "city": "Saint-Herblain"
+  },
+  "Zénith de Nantes Métropole": {
+    "lat": 47.2287,
+    "lon": -1.628,
+    "city": "Saint-Herblain"
+  },
+  "Zénith Nantes": {
+    "lat": 47.2287,
+    "lon": -1.628,
+    "city": "Saint-Herblain"
+  },
+  "Zenith Nantes Metropole": {
+    "lat": 47.2287,
+    "lon": -1.628,
+    "city": "Saint-Herblain"
+  },
+  "Zénith de Nantes": {
+    "lat": 47.2287,
+    "lon": -1.628,
+    "city": "Saint-Herblain"
+  },
+  "Stade Pascal-Laporte": {
+    "lat": 47.2293,
+    "lon": -1.5821,
+    "city": "Nantes"
+  },
+  "Stade Pascal Laporte": {
+    "lat": 47.2293,
+    "lon": -1.5821,
+    "city": "Nantes"
+  },
+  "Stade Michel-Lecointre": {
+    "lat": 47.2095,
+    "lon": -1.5327,
+    "city": "Nantes"
+  },
+  "Stade Michel Lecointre": {
+    "lat": 47.2095,
+    "lon": -1.5327,
+    "city": "Nantes"
+  },
+  "Stade Marcel-Saupin": {
+    "lat": 47.2128,
+    "lon": -1.5386,
+    "city": "Nantes"
+  },
+  "Stade Marcel Saupin": {
+    "lat": 47.2128,
+    "lon": -1.5386,
+    "city": "Nantes"
+  },
+  "Stade de la Saint-Pierre": {
+    "lat": 47.2402,
+    "lon": -1.5321,
+    "city": "Nantes"
+  },
+  "Stade de la Saint-Pierre (Port-Boyer)": {
+    "lat": 47.2402,
+    "lon": -1.5321,
+    "city": "Nantes"
+  },
+  "La Saint-Pierre": {
+    "lat": 47.2402,
+    "lon": -1.5321,
+    "city": "Nantes"
+  },
+  "Stade de Procé": {
+    "lat": 47.2246,
+    "lon": -1.5803,
+    "city": "Nantes"
+  },
+  "Stade de Proce": {
+    "lat": 47.2246,
+    "lon": -1.5803,
+    "city": "Nantes"
+  },
+  "Parc de Procé": {
+    "lat": 47.2243,
+    "lon": -1.5826,
+    "city": "Nantes"
+  },
+  "Parc de Proce": {
+    "lat": 47.2243,
+    "lon": -1.5826,
+    "city": "Nantes"
+  },
+  "SNUC Tennis": {
+    "lat": 47.2284,
+    "lon": -1.5807,
+    "city": "Nantes"
+  },
+  "SNUC": {
+    "lat": 47.2284,
+    "lon": -1.5807,
+    "city": "Nantes"
+  },
+  "SNUC Tennis, boulevard des Anglais": {
+    "lat": 47.2284,
+    "lon": -1.5807,
+    "city": "Nantes"
+  },
+  "Stade Nantes Université Club": {
+    "lat": 47.2284,
+    "lon": -1.5807,
+    "city": "Nantes"
+  },
+  "Cours Saint-Pierre": {
+    "lat": 47.2183,
+    "lon": -1.5489,
+    "city": "Nantes"
+  },
+  "Cours Saint-Pierre (arrivée)": {
+    "lat": 47.2183,
+    "lon": -1.5489,
+    "city": "Nantes"
+  },
+  "Cours Saint Pierre": {
+    "lat": 47.2183,
+    "lon": -1.5489,
+    "city": "Nantes"
+  },
+  "Île de Versailles": {
+    "lat": 47.2244,
+    "lon": -1.5542,
+    "city": "Nantes"
+  },
+  "Ile de Versailles": {
+    "lat": 47.2244,
+    "lon": -1.5542,
+    "city": "Nantes"
+  },
+  "Parc des Chantiers": {
+    "lat": 47.2053,
+    "lon": -1.567,
+    "city": "Nantes"
+  },
+  "Parc des Chantiers (Île de Nantes)": {
+    "lat": 47.2053,
+    "lon": -1.567,
+    "city": "Nantes"
+  },
+  "Les Nefs des Machines de l'Île": {
+    "lat": 47.2071,
+    "lon": -1.5654,
+    "city": "Nantes"
+  },
+  "Machines de l'Île": {
+    "lat": 47.2071,
+    "lon": -1.5654,
+    "city": "Nantes"
+  },
+  "Nefs des Machines": {
+    "lat": 47.2071,
+    "lon": -1.5654,
+    "city": "Nantes"
+  },
+  "Les Machines de l'île": {
+    "lat": 47.2071,
+    "lon": -1.5654,
+    "city": "Nantes"
+  },
+  "Île de Nantes": {
+    "lat": 47.2071,
+    "lon": -1.5654,
+    "city": "Nantes"
+  },
+  "Hangar 24": {
+    "lat": 47.1996,
+    "lon": -1.5623,
+    "city": "Nantes"
+  },
+  "Château des ducs de Bretagne": {
+    "lat": 47.2161,
+    "lon": -1.5493,
+    "city": "Nantes"
+  },
+  "Château des Ducs de Bretagne": {
+    "lat": 47.2161,
+    "lon": -1.5493,
+    "city": "Nantes"
+  },
+  "Cité des Congrès": {
+    "lat": 47.2135,
+    "lon": -1.545,
+    "city": "Nantes"
+  },
+  "Cité des Congrès de Nantes": {
+    "lat": 47.2135,
+    "lon": -1.545,
+    "city": "Nantes"
+  },
+  "La Cité Nantes Events Center": {
+    "lat": 47.2135,
+    "lon": -1.545,
+    "city": "Nantes"
+  },
+  "Parc de la Chantrerie": {
+    "lat": 47.2895,
+    "lon": -1.528,
+    "city": "Nantes"
+  },
+  "Chantrerie": {
+    "lat": 47.2895,
+    "lon": -1.528,
+    "city": "Nantes"
+  },
+  "Ferme pédagogique de la Chantrerie": {
+    "lat": 47.2862,
+    "lon": -1.5209,
+    "city": "Nantes"
+  },
+  "95 Route de Gachet": {
+    "lat": 47.2862,
+    "lon": -1.5209,
+    "city": "Nantes"
+  },
+  "Gymnase Géraudière": {
+    "lat": 47.2615,
+    "lon": -1.5672,
+    "city": "Nantes"
+  },
+  "Gymnase de la Géraudière": {
+    "lat": 47.2615,
+    "lon": -1.5672,
+    "city": "Nantes"
+  },
+  "Piscine Léo-Lagrange (Île Gloriette)": {
+    "lat": 47.2099,
+    "lon": -1.5601,
+    "city": "Nantes"
+  },
+  "Piscine Léo Lagrange": {
+    "lat": 47.2099,
+    "lon": -1.5601,
+    "city": "Nantes"
+  },
+  "Piscine Léo-Lagrange": {
+    "lat": 47.2099,
+    "lon": -1.5601,
+    "city": "Nantes"
+  },
+  "Piscine Léo Lagrange Ile Gloriette": {
+    "lat": 47.2099,
+    "lon": -1.5601,
+    "city": "Nantes"
+  },
+  "Parc du Grand Blottereau": {
+    "lat": 47.2277,
+    "lon": -1.5083,
+    "city": "Nantes"
+  },
+  "Grand Blottereau": {
+    "lat": 47.2277,
+    "lon": -1.5083,
+    "city": "Nantes"
+  },
+  "Parc naturel de Beaulieu": {
+    "lat": 47.2113,
+    "lon": -1.5211,
+    "city": "Nantes"
+  },
+  "Parc de Beaulieu": {
+    "lat": 47.2113,
+    "lon": -1.5211,
+    "city": "Nantes"
+  },
+  "Complexe sportif de la Durantière": {
+    "lat": 47.214,
+    "lon": -1.6053,
+    "city": "Nantes"
+  },
+  "La Durantière": {
+    "lat": 47.214,
+    "lon": -1.6053,
+    "city": "Nantes"
+  },
+  "Gymnase Jean-Zay": {
+    "lat": 47.2083,
+    "lon": -1.6074,
+    "city": "Nantes"
+  },
+  "Gymnase Jean Zay": {
+    "lat": 47.2083,
+    "lon": -1.6074,
+    "city": "Nantes"
+  },
+  "Maison des Sports": {
+    "lat": 47.2074,
+    "lon": -1.6107,
+    "city": "Nantes"
+  },
+  "Rue des Chalâtres": {
+    "lat": 47.2277,
+    "lon": -1.5327,
+    "city": "Nantes"
+  },
+  "Hauts-Pavés – Saint-Félix": {
+    "lat": 47.23,
+    "lon": -1.56,
+    "city": "Nantes"
+  },
+  "Hauts-Pavés - Saint-Félix": {
+    "lat": 47.23,
+    "lon": -1.56,
+    "city": "Nantes"
+  },
+  "Quartier Chantenay": {
+    "lat": 47.204,
+    "lon": -1.596,
+    "city": "Nantes"
+  },
+  "Chantenay": {
+    "lat": 47.204,
+    "lon": -1.596,
+    "city": "Nantes"
+  },
+  "Centre-ville de Nantes": {
+    "lat": 47.2163,
+    "lon": -1.553,
+    "city": "Nantes"
+  },
+  "Nantes centre": {
+    "lat": 47.2163,
+    "lon": -1.553,
+    "city": "Nantes"
+  },
+  "Stade René-Massé": {
+    "lat": 47.2111,
+    "lon": -1.5011,
+    "city": "Saint-Sébastien-sur-Loire"
+  },
+  "Stade René Massé": {
+    "lat": 47.2111,
+    "lon": -1.5011,
+    "city": "Saint-Sébastien-sur-Loire"
+  },
+  "Station Nuage": {
+    "lat": 47.2105,
+    "lon": -1.512,
+    "city": "Saint-Sébastien-sur-Loire"
+  },
+  "Parc de la Gournerie": {
+    "lat": 47.2498,
+    "lon": -1.638,
+    "city": "Saint-Herblain"
+  },
+  "Domaine de la Gournerie": {
+    "lat": 47.2498,
+    "lon": -1.638,
+    "city": "Saint-Herblain"
+  },
+  "Parc de la Carrière": {
+    "lat": 47.2107,
+    "lon": -1.6342,
+    "city": "Saint-Herblain"
+  },
+  "La Carrière (Saint-Herblain)": {
+    "lat": 47.2107,
+    "lon": -1.6342,
+    "city": "Saint-Herblain"
+  },
+  "La Carrière": {
+    "lat": 47.2107,
+    "lon": -1.6342,
+    "city": "Saint-Herblain"
+  },
+  "Rue de la Conraie": {
+    "lat": 47.2618,
+    "lon": -1.5878,
+    "city": "Orvault"
+  },
+  "1 Rue de la Conraie": {
+    "lat": 47.2618,
+    "lon": -1.5878,
+    "city": "Orvault"
+  },
+  "Base de loisirs du Loiry": {
+    "lat": 47.1627,
+    "lon": -1.4788,
+    "city": "Vertou"
+  },
+  "Le Loiry": {
+    "lat": 47.1627,
+    "lon": -1.4788,
+    "city": "Vertou"
+  },
+  "Nantes": {
+    "lat": 47.2186,
+    "lon": -1.5541,
+    "city": "Nantes"
+  },
+  "Basse-Goulaine": {
+    "lat": 47.2155,
+    "lon": -1.4652,
+    "city": "Basse-Goulaine"
+  },
+  "Bouaye": {
+    "lat": 47.1428,
+    "lon": -1.6918,
+    "city": "Bouaye"
+  },
+  "Bouguenais": {
+    "lat": 47.1793,
+    "lon": -1.6234,
+    "city": "Bouguenais"
+  },
+  "Brains": {
+    "lat": 47.1687,
+    "lon": -1.7259,
+    "city": "Brains"
+  },
+  "Carquefou": {
+    "lat": 47.2972,
+    "lon": -1.4921,
+    "city": "Carquefou"
+  },
+  "La Chapelle-sur-Erdre": {
+    "lat": 47.2997,
+    "lon": -1.5519,
+    "city": "La Chapelle-sur-Erdre"
+  },
+  "Couëron": {
+    "lat": 47.2115,
+    "lon": -1.7271,
+    "city": "Couëron"
+  },
+  "Indre": {
+    "lat": 47.1978,
+    "lon": -1.6699,
+    "city": "Indre"
+  },
+  "La Montagne": {
+    "lat": 47.1897,
+    "lon": -1.6847,
+    "city": "La Montagne"
+  },
+  "Le Pellerin": {
+    "lat": 47.1999,
+    "lon": -1.755,
+    "city": "Le Pellerin"
+  },
+  "Les Sorinières": {
+    "lat": 47.148,
+    "lon": -1.5302,
+    "city": "Les Sorinières"
+  },
+  "Mauves-sur-Loire": {
+    "lat": 47.2954,
+    "lon": -1.3936,
+    "city": "Mauves-sur-Loire"
+  },
+  "Orvault": {
+    "lat": 47.2711,
+    "lon": -1.6232,
+    "city": "Orvault"
+  },
+  "Rezé": {
+    "lat": 47.1905,
+    "lon": -1.5695,
+    "city": "Rezé"
+  },
+  "Saint-Aignan-Grandlieu": {
+    "lat": 47.1224,
+    "lon": -1.6346,
+    "city": "Saint-Aignan-Grandlieu"
+  },
+  "Saint-Herblain": {
+    "lat": 47.2233,
+    "lon": -1.6347,
+    "city": "Saint-Herblain"
+  },
+  "Saint-Jean-de-Boiseau": {
+    "lat": 47.1953,
+    "lon": -1.7249,
+    "city": "Saint-Jean-de-Boiseau"
+  },
+  "Saint-Léger-les-Vignes": {
+    "lat": 47.136,
+    "lon": -1.7316,
+    "city": "Saint-Léger-les-Vignes"
+  },
+  "Saint-Sébastien-sur-Loire": {
+    "lat": 47.2035,
+    "lon": -1.4992,
+    "city": "Saint-Sébastien-sur-Loire"
+  },
+  "Sainte-Luce-sur-Loire": {
+    "lat": 47.2494,
+    "lon": -1.4865,
+    "city": "Sainte-Luce-sur-Loire"
+  },
+  "Sautron": {
+    "lat": 47.2633,
+    "lon": -1.6684,
+    "city": "Sautron"
+  },
+  "Thouaré-sur-Loire": {
+    "lat": 47.2669,
+    "lon": -1.4411,
+    "city": "Thouaré-sur-Loire"
+  },
+  "Vertou": {
+    "lat": 47.1685,
+    "lon": -1.4722,
+    "city": "Vertou"
+  },
+  "Saint-Nazaire": {
+    "lat": 47.2734,
+    "lon": -2.2139,
+    "city": "Saint-Nazaire"
+  },
+  "Pornic": {
+    "lat": 47.1153,
+    "lon": -2.104,
+    "city": "Pornic"
+  },
+  "Montaigu-Vendée": {
+    "lat": 46.9741,
+    "lon": -1.2927,
+    "city": "Montaigu-Vendée"
+  },
+  "Rezé (départ)": {
+    "lat": 47.1905,
+    "lon": -1.5695,
+    "city": "Rezé"
+  },
+  "Nantes (parc)": {
+    "lat": 47.2186,
+    "lon": -1.5541,
+    "city": "Nantes"
+  },
+  "Différents spots de Nantes": {
+    "lat": 47.2186,
+    "lon": -1.5541,
+    "city": "Nantes"
+  },
+  "Parcs nantais": {
+    "lat": 47.2186,
+    "lon": -1.5541,
+    "city": "Nantes"
+  }
+}

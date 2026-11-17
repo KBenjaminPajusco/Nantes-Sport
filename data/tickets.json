@@ -1,0 +1,195 @@
+{
+ "_meta": {
+  "researched_on": "2026-11-17",
+  "conventions": "weeks_before=null means no sourced figure; 'verified' false means the URL or rule comes from the official domain or secondary sources and was not confirmed on the live page (403, queue or not fetched). Club order matters in tickets.py (first ^-anchored match wins): women's sides are listed first and men's regexes exclude them with negative lookaheads."
+ },
+ "clubs": {
+  "FC Nantes Féminines": {
+   "match": "^FC Nantes\\s*(F[ée]minines?\\b|\\(F\\)|Women|F\\b)",
+   "url": "https://billetterie.fcnantes.com/fr",
+   "rule": "all_announced",
+   "weeks_before": null,
+   "presale_note": "Billetterie commune avec l'équipe masculine. Aucune règle d'ouverture des ventes trouvée : règle supposée, à vérifier. Les matchs délocalisés à la Beaujoire font l'objet d'opérations spécifiques.",
+   "usually_sold_out": false,
+   "verified": false,
+   "source": "https://www.fff.fr/article/17227-nantes-la-saison-d-apres.html"
+  },
+  "FC Nantes": {
+   "match": "^FC Nantes(?!\\s*(F[ée]minines?\\b|\\(F\\)|Women|F\\b))",
+   "url": "https://billetterie.fcnantes.com/fr",
+   "rule": "weeks_before",
+   "weeks_before": null,
+   "presale_note": "Réabonnements 2026-27 ouverts le 4/06/2026 (abonnés 2025-26 jusqu'au 10/06, nouveaux abonnés dès le 12/06). Délai de mise en vente à l'unité non trouvé. File d'attente Queue-it sur la billetterie.",
+   "usually_sold_out": false,
+   "verified": false,
+   "source": "https://info.fr/fc-nantes-reabonnements-2026-2027-ouverture-ligue-2-2026-06/"
+  },
+  "HBC Nantes Féminines": {
+   "match": "^(H\\.?B\\.?C\\.? Nantes\\s*(F[ée]minines?\\b|\\(F\\))|Nantes Loire F[ée]minin|Nantes Handball F[ée]minin|Nantes Atlantique Handball|Neptunes( de)? Nantes\\s*Hand)",
+   "url": null,
+   "rule": "all_announced",
+   "weeks_before": null,
+   "presale_note": "Club amateur (ex-Neptunes / Nantes Atlantique Handball, liquidés en 2024 ; Nantes Loire Féminin rattaché au HBC Nantes au 1/07/2026, Nationale 2 attendue). Pas de billetterie en ligne identifiée.",
+   "usually_sold_out": null,
+   "verified": false,
+   "source": "https://handnews.fr/2026/lms-le-hbc-nantes-construit-un-projet-commun-avec-le-nantes-loire-feminin/"
+  },
+  "HBC Nantes": {
+   "match": "^H\\.?B\\.?C\\.? Nantes(?!\\s*(F[ée]minines?\\b|\\(F\\)))",
+   "url": "https://billetterie.hbcnantes.com/fr",
+   "rule": "all_announced",
+   "weeks_before": null,
+   "presale_note": "Matchs mis en vente par phases plusieurs mois à l'avance (au 17/11/2026, matchs listés jusqu'au 20/02/2027). Priorité aux 3 000+ abonnés ; bourse de revente officielle, liste d'attente membres, bouton « M'alerter ».",
+   "usually_sold_out": true,
+   "verified": true,
+   "source": "https://billetterie.hbcnantes.com/fr"
+  },
+  "Nantes Basket Hermine": {
+   "match": "^(Nantes Basket Hermine|Hermine (de )?Nantes|NBH\\b)",
+   "url": "https://billetterie.nantes-basket.com/fr",
+   "rule": "weeks_before",
+   "weeks_before": 5,
+   "presale_note": "Déduit de la billetterie au 17/11/2026 : 4 matchs en vente jusqu'au 22/12 (~5 semaines d'avance). « Dernières places » sur certaines affiches.",
+   "usually_sold_out": false,
+   "verified": true,
+   "source": "https://billetterie.nantes-basket.com/fr"
+  },
+  "Volley-Ball Nantes (Neptunes de Nantes)": {
+   "match": "^(Volley[- ]?Ball Nantes|VB Nantes|Neptunes( de)? Nantes(?!\\s*Hand)|Nantes Volley)",
+   "url": "https://billetterie.seetickets.fr/index-css5-neptunesnantes-pg1.html",
+   "rule": "all_announced",
+   "weeks_before": null,
+   "presale_note": "Billetterie See Tickets accessible depuis neptunesvolley.com. Aucune règle d'ouverture trouvée : règle supposée, à vérifier.",
+   "usually_sold_out": false,
+   "verified": false,
+   "source": "https://neptunesvolley.com/"
+  },
+  "Corsaires de Nantes": {
+   "match": "^(Corsaires (de )?Nantes|Nantes Atlantique Hockey Glace|NAHG\\b)",
+   "url": "https://corsairesdenantes.billetterie-club.fr/",
+   "rule": "all_announced",
+   "weeks_before": null,
+   "presale_note": "Au 17/11/2026 aucun match à l'unité listé en ligne, seulement les abonnements 26/27 (vente au guichet supposée). Contact : billetterie@corsairesdenantes.fr.",
+   "usually_sold_out": null,
+   "verified": true,
+   "source": "https://corsairesdenantes.billetterie-club.fr/"
+  },
+  "Stade Nantais": {
+   "match": "^Stade Nantais",
+   "url": null,
+   "rule": "all_announced",
+   "weeks_before": null,
+   "presale_note": "Aucune billetterie en ligne trouvée (Nationale 2, stade Pascal-Laporte, vente au guichet supposée).",
+   "usually_sold_out": null,
+   "verified": false,
+   "source": "https://abargenteuil.fr/blog/stade-nantais-rugby-direct/"
+  }
+ },
+ "events": {
+  "HBC Nantes – Paris (Saga XXL) 2026": {
+   "match": "^H\\.?B\\.?C\\.? Nantes\\s*[-–]\\s*(Paris|PSG)|Saga XXL",
+   "status": "open",
+   "opens": null,
+   "url": "https://billetterie.hbcnantes.com/fr",
+   "note": "Réservation ouverte pour HBC Nantes – Paris (13/12/2026 17h selon la billetterie ; le site du PSG indique le 11/12). Lieu non affiché ; Nantes Métropole annonce la Saga XXL à la Beaujoire en décembre. Prochaine affiche XXL : Montpellier début mars 2027.",
+   "source": "https://billetterie.hbcnantes.com/fr"
+  },
+  "Jumping de Nantes 2027": {
+   "match": "Jumping[^\\n]*Nantes",
+   "status": "unknown",
+   "opens": null,
+   "url": null,
+   "note": "Aucune édition 2027 d'un jumping international à Nantes trouvée.",
+   "source": null
+  },
+  "Open Nantes Atlantique 2027": {
+   "match": "Open[^\\n]*Nantes Atlantique|Engie Open|Open Engie",
+   "status": "unknown",
+   "opens": null,
+   "url": "https://www.itftennis.com/en/tournament/w50-nantes/fra/2026/w-itf-fra-2026-011",
+   "note": "Dates 2027 non publiées (2026 : fin mars - 4 avril au SNUC, billets 6-12 €).",
+   "source": "https://en.wikipedia.org/wiki/Open_Nantes_Atlantique"
+  },
+  "Courses hippiques Nantes 2026": {
+   "match": "Hippodrome[^\\n]*Nantes|Courses hippiques|R[ée]union hippique",
+   "status": "open",
+   "opens": null,
+   "url": "https://www.hippodrome-nantes.fr/",
+   "note": "Réunions les 23 et 30/11 et le 6/12/2026. Entrée 5 € en ligne / 6 € sur place, gratuit -18 ans. Calendrier 2027 non affiché.",
+   "source": "https://www.hippodrome-nantes.fr/"
+  },
+  "Nantes International Meeting 2027": {
+   "match": "Nantes International Meeting|Meeting (international|indoor) de Nantes",
+   "status": "unknown",
+   "opens": null,
+   "url": "https://www.finishers.com/en/event/nantes-international-meeting",
+   "note": "Meeting en salle au Stadium Pierre-Quinon, fin janvier 2027 ; date exacte et billetterie non confirmées.",
+   "source": "https://www.finishers.com/en/event/nantes-international-meeting"
+  }
+ },
+ "races": {
+  "Marathon de Nantes 2027": {
+   "match": "(?<!semi-)(?<!semi )Marathon de Nantes",
+   "status": "open",
+   "opens": "2026-09-22",
+   "closes": null,
+   "url": "https://www.marathondenantes.com/marathon",
+   "note": "Dimanche 25/04/2027, départ 9h15. Inscriptions ouvertes (Nantes Métropole), 61/71/81/91 € par paliers, Premium 179 €, 7 000 dossards. Date d'ouverture 22/09 issue d'une page Nantes Métropole (non vérifiée sur le site officiel).",
+   "source": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/40219053_inscriptions-imminentes-marathon-de-nantes-semi-marathon-foulees-de-lelephant-2027"
+  },
+  "Semi-marathon de Nantes 2027": {
+   "match": "Semi[- ]?marathon de Nantes",
+   "status": "sold_out",
+   "opens": "2026-09-22",
+   "closes": null,
+   "url": "https://www.marathondenantes.com/semi-marathon",
+   "note": "Dimanche 25/04/2027, 8h. « Le semi-marathon affiche complet » (dossards 55 €) ; dossards Premium (169 €) encore disponibles, liste d'attente à venir.",
+   "source": "https://www.marathondenantes.com/semi-marathon"
+  },
+  "Foulées de l'Éléphant 2027": {
+   "match": "Foul[ée]es de l.?[ée]l[ée]phant",
+   "status": "sold_out",
+   "opens": "2026-09-22",
+   "closes": null,
+   "url": "https://www.marathondenantes.com/",
+   "note": "10 km nocturne samedi 24/04/2027 (21h30). Complet ; alerte liste d'attente possible.",
+   "source": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/40219053_inscriptions-imminentes-marathon-de-nantes-semi-marathon-foulees-de-lelephant-2027"
+  },
+  "Odysséa Nantes 2027": {
+   "match": "Odyss[ée]a",
+   "status": "not_open",
+   "opens": null,
+   "closes": null,
+   "url": "https://odyssea.info/courses/odyssea-nantes/",
+   "note": "Site officiel : « Ouverture prochaine des inscriptions ». Date 2027 non officielle (7 mars selon des sites tiers).",
+   "source": "https://odyssea.info/courses/odyssea-nantes/"
+  },
+  "Corrida de la Beaujoire 2026": {
+   "match": "Corrida de la Beaujoire",
+   "status": "sold_out",
+   "opens": "2026-11-09",
+   "closes": "2026-12-23",
+   "url": "https://www.timepulse.fr/evenements/voir/3618/corrida-de-la-beaujoire-nantes",
+   "note": "Samedi 26/12/2026, 13h, Beaujoire. Corrida 9 km « Course complète » (771/800), cession de dossard possible. Challenge duo 5,5 km et courses enfants encore ouverts jusqu'au 23/12 14h.",
+   "source": "https://www.timepulse.fr/evenements/voir/3618/corrida-de-la-beaujoire-nantes"
+  },
+  "Naoned Urban Trail 2027": {
+   "match": "Naoned Urban Trail|Nantes Urban Trail|Urban Trail (de )?Nantes",
+   "status": "not_open",
+   "opens": null,
+   "closes": null,
+   "url": "https://www.finishers.com/fr/course/naoned-urban-trail",
+   "note": "Fin mai 2027 (date exacte non publiée) ; pas d'ouverture d'inscriptions trouvée (2026 via Klikego).",
+   "source": "https://www.finishers.com/fr/course/naoned-urban-trail"
+  },
+  "Trail de Nantes à Montaigu 2027": {
+   "match": "Trail de Nantes [àa] Montaigu",
+   "status": "unknown",
+   "opens": null,
+   "closes": null,
+   "url": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/trail-de-nantes-a-montaigu-2026",
+   "note": "Édition 2027 non annoncée (2026 : 26/09, complet).",
+   "source": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/trail-de-nantes-a-montaigu-2026"
+  }
+ }
+}

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr" data-ui="olympia">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nantes Sport – Le programme</title>
+<meta name="description" content="Tous les matchs et événements sportifs à Nantes et dans la métropole : FC Nantes, HBC Nantes, volley, basket, hockey, courses… avec l'état de la billetterie, sur une carte.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%2300a651'/><rect x='50' width='50' height='100' fill='%23f6c700'/><text x='50' y='70' font-size='56' font-family='Arial' font-weight='900' fill='white' text-anchor='middle'>NS</text></svg>">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="preload" href="fonts/sportschrift-bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/sportschrift-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="themes/olympia.css">
+</head>
+<body>
+<div class="app">
+  <header class="bar">
+    <a class="logo" href="#" aria-label="Nantes Sport – accueil">
+      <span class="logo-g">NANTES</span><span class="logo-r">SPORT</span>
+    </a>
+    <nav class="modes" role="tablist" aria-label="Mode">
+      <button class="mode" data-mode="spect" role="tab">À voir</button>
+      <button class="mode" data-mode="all" role="tab">Tout le sport</button>
+    </nav>
+    <label class="search">
+      <span aria-hidden="true">⌕</span>
+      <input id="q" type="search" placeholder="Équipe, stade, compétition…" autocomplete="off" aria-label="Rechercher">
+    </label>
+    <div class="live" id="liveCount"></div>
+  </header>
+
+  <div class="rail">
+    <div class="sports" id="sports" role="tablist" aria-label="Sports"></div>
+    <div class="days" id="days" role="tablist" aria-label="Période"></div>
+  </div>
+
+  <main class="stage">
+    <section class="mapzone" aria-label="Carte">
+      <div id="map"></div>
+      <div class="map-legend">
+        <span><i class="sq red"></i>Match pro</span>
+        <span><i class="sq green"></i>Grand événement</span>
+        <span><i class="sq white"></i>Autre</span>
+      </div>
+      <div class="venue-card" id="venueCard" hidden></div>
+      <button class="map-toggle only-mobile" id="boardToggle">Programme ↓</button>
+    </section>
+
+    <aside class="board" id="board" aria-label="Programme">
+      <div class="feature" id="feature"></div>
+      <div class="board-head">
+        <h2 id="boardTitle">Programme</h2>
+        <div class="board-tools">
+          <select id="sort" aria-label="Trier">
+            <option value="date">Par date</option>
+            <option value="sport">Par sport</option>
+            <option value="venue">Par lieu</option>
+            <option value="aff">Par affluence</option>
+          </select>
+          <button id="onsale" class="tool" title="N'afficher que les événements en vente ou gratuits">🎟 En vente</button>
+          <button id="icsAll" class="tool" title="Exporter la sélection (.ics)">ICS ⤓</button>
+        </div>
+      </div>
+      <div id="venueFilter"></div>
+      <div class="list" id="list"></div>
+    </aside>
+  </main>
+
+  <footer class="ticker" aria-label="Prochains événements">
+    <span class="ticker-tag">Prochainement</span>
+    <div class="ticker-track"><div class="ticker-move" id="ticker"></div></div>
+    <span class="fresh" id="fresh" title="Dernière mise à jour automatique des données"></span>
+  </footer>
+</div>
+
+
+<dialog id="modal" class="modal"><div id="modalBody"></div></dialog>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

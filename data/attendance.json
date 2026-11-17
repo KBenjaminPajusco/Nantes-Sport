@@ -1,0 +1,496 @@
+{
+ "_meta": {
+  "compiled": "2026-11-17",
+  "notes": "null = no sourced figure found. approx=true when the figure is an organiser estimate, a rounded/pre-event figure, a third-party listing, or derived (derivation explained in 'note'). fill_rate values are avg_attendance / venue capacity unless the source states a rate. Club 'match' regexes are tested at position 0 of the title (home team first); race/event regexes anywhere in the title."
+ },
+ "venues": {
+  "Stade de la Beaujoire": {
+   "aliases": [
+    "Stade Louis-Fonteneau",
+    "Stade Louis Fonteneau",
+    "La Beaujoire",
+    "Beaujoire"
+   ],
+   "capacity": 35322,
+   "by_sport": {
+    "Football": 35322,
+    "Rugby": 35322
+   },
+   "approx": false,
+   "note": "Official name Stade de la Beaujoire - Louis-Fonteneau. Wikipedia FR: 35,322 seats (current). Nantes Métropole still lists 37,473 (older figure). Recent crowds: Vendée Fontenay v PSG (Coupe de France, 20 Dec 2025) 34,601; France v Côte d'Ivoire (4 June 2026) 33,636; RC Vannes v UBB (Top 14, 7 Nov 2026) 34,783. Record 51,359 (Euro 1984). No separate rugby configuration published (rugby assumed equal).",
+   "source": "https://fr.wikipedia.org/wiki/Stade_de_la_Beaujoire",
+   "sources_extra": [
+    "https://metropole.nantes.fr/sortir/vie-locale/sport/equipements-haut-niveau"
+   ]
+  },
+  "H Arena": {
+   "aliases": [
+    "Palais des Sports de Beaulieu",
+    "Palais des Sports Beaulieu",
+    "Beaulieu"
+   ],
+   "capacity": 5902,
+   "by_sport": {
+    "Handball": 5902
+   },
+   "approx": false,
+   "note": "Not a new building: H Arena is the renamed Palais des Sports de Beaulieu (Île de Nantes, built 1973; renamed after the 2016-2020 renovation, club says 2018). Club figure 5,902 seats; Nantes Métropole lists 5,450, Wikipedia EN 5,500. Home of HBC Nantes; also boxing/MMA galas. No new arena near La Beaujoire found (open or under construction).",
+   "source": "https://hbcnantes.com/le-club/h-arena/",
+   "sources_extra": [
+    "https://metropole.nantes.fr/sortir/vie-locale/sport/equipements-haut-niveau",
+    "https://metropole.nantes.fr/lieu/palais-des-sports-beaulieu/h-arena",
+    "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Beaulieu",
+    "https://monumentum.fr/architecture-contemporaine-remarquable/ACR0002046/nantes-palais-des-sports-de-beaulieu/"
+   ]
+  },
+  "Complexe sportif Mangin-Beaulieu": {
+   "aliases": [
+    "Salle Mangin Beaulieu",
+    "Salle Mangin-Beaulieu",
+    "Mangin Beaulieu",
+    "Mangin-Beaulieu",
+    "Salle Mangin"
+   ],
+   "capacity": 2500,
+   "by_sport": {
+    "Volleyball": 2500,
+    "Handball": 2500
+   },
+   "approx": false,
+   "note": "Inaugurated 1989. Hosts Volley-Ball Nantes / Neptunes de Nantes (women's volleyball, Saforelle Power 6 in 2026-27) and Nantes Escrime. Handball value assumed equal (approx).",
+   "source": "https://metropole.nantes.fr/sortir/vie-locale/sport/equipements-haut-niveau"
+  },
+  "Salle sportive métropolitaine de la Trocardière": {
+   "aliases": [
+    "La Trocardière",
+    "Trocardiere",
+    "Salle de la Trocardière",
+    "Salle Sportive Métropolitaine de Rezé",
+    "Salle sportive metropolitaine de Reze",
+    "Salle sportive métropolitaine",
+    "SSM Rezé"
+   ],
+   "capacity": 4200,
+   "by_sport": {
+    "Basketball": 4200,
+    "Volleyball": 4185
+   },
+   "approx": false,
+   "note": "Same building (Rezé, delivered 2015): 'Salle sportive métropolitaine de la Trocardière'. Main hall 4,200 (sports.gouv.fr); architects' figure 4,185 max for basketball/volleyball, handball configuration smaller (no figure). NRMV volleyball club record reported at 4,726 (exceeds listed capacity; unverified). Hosts Nantes Basket Hermine and Nantes Rezé Basket. Club sources cite ~4,238 seats (record 4,433 for Nantes Basket Hermine).",
+   "source": "https://www.sports.gouv.fr/salle-de-la-trocardiere",
+   "sources_extra": [
+    "https://www.pss-archi.eu/immeubles/FR-44143-40165.html",
+    "https://metropole.nantes.fr/sortir/vie-locale/sport/equipements-haut-niveau"
+   ]
+  },
+  "Patinoire du Petit Port": {
+   "aliases": [
+    "Patinoire du Petit-Port",
+    "Petit Port patinoire",
+    "Patinoire de Nantes"
+   ],
+   "capacity": 1060,
+   "by_sport": {
+    "Ice hockey": 1060
+   },
+   "approx": false,
+   "note": "Hockey France / Elite Prospects: 1,060; Wikipedia: single side stand of 1,034 seats. A 209-seat VIP stand was planned for autumn 2025 (not confirmed as opened). Home of the Corsaires de Nantes.",
+   "source": "https://www.eliteprospects.com/arena/1436/patinoire-du-petit-port",
+   "sources_extra": [
+    "https://en.wikipedia.org/wiki/Centre_de_loisirs_du_Petit_Port",
+    "https://www.lejournaldesentreprises.com/article/le-club-de-hockey-sur-glace-les-corsaires-de-nantes-se-dote-dune-entreprise-et-veut-attirer-100-2120855"
+   ]
+  },
+  "Stade Pascal-Laporte": {
+   "aliases": [
+    "Stade Pascal Laporte",
+    "Pascal-Laporte"
+   ],
+   "capacity": 2500,
+   "by_sport": {
+    "Rugby": 2500
+   },
+   "approx": true,
+   "note": "Only figure found is from a secondary blog (~2,500); single stand + 2 rugby pitches (sports.gouv.fr). Home of Stade Nantais.",
+   "source": "https://abargenteuil.fr/blog/stade-rugby-nantes/",
+   "sources_extra": [
+    "https://www.sports.gouv.fr/stade-pascal-laporte"
+   ]
+  },
+  "Stade Marcel-Saupin": {
+   "aliases": [
+    "Stade Marcel Saupin",
+    "Marcel-Saupin"
+   ],
+   "capacity": 1880,
+   "by_sport": {
+    "Football": 1880
+   },
+   "approx": true,
+   "note": "Largely demolished 2006, rebuilt stand reopened 2009; 1,880 is the 2010 Wikipedia figure (no current figure). Used by FC Nantes reserve (and women per infobox, unverified).",
+   "source": "https://en.wikipedia.org/wiki/Stade_Marcel-Saupin"
+  },
+  "Parc des Expositions de la Beaujoire": {
+   "aliases": [
+    "Hall XXL",
+    "Exponantes",
+    "Parc des Expositions",
+    "Parc des expos de la Beaujoire",
+    "Parc Expo Nantes",
+    "Grand Palais Exponantes"
+   ],
+   "capacity": 10750,
+   "by_sport": {
+    "Handball": 10750,
+    "Volleyball": 10750,
+    "Concert": 10750
+   },
+   "approx": false,
+   "note": "Capacity = Hall XXL (inaugurated 2013) for handball/concerts: 10,750 (Wikipedia) / 10,700 (Nantes Métropole). Hosted 2017 men's handball WCh, 2018 women's handball Euro, 2019 men's volleyball Euro; HBC Nantes 'XXL' matches. Volleyball value assumed equal (approx). Other halls (e.g. Jumping de Nantes arena) have no published capacity.",
+   "source": "https://en.wikipedia.org/wiki/Hall_XXL",
+   "sources_extra": [
+    "https://metropole.nantes.fr/sortir/vie-locale/sport/equipements-haut-niveau"
+   ]
+  },
+  "Zénith Nantes Métropole": {
+   "aliases": [
+    "Zenith Nantes Metropole",
+    "Zénith de Nantes",
+    "Zenith de Nantes",
+    "Zénith Nantes",
+    "Zenith Nantes"
+   ],
+   "capacity": 9000,
+   "by_sport": {
+    "Concert": 9000
+   },
+   "approx": true,
+   "note": "Saint-Herblain, opened Dec 2006. Up to ~9,000 (most listings); one source says 8,500. No sport-specific configuration published.",
+   "source": "https://metropole.nantes.fr/sortir/vie-locale/culture/lieux-spectacle-vivant",
+   "sources_extra": [
+    "https://www.hotel-bb.com/fr/guide/zenith-de-nantes-metropole"
+   ]
+  },
+  "Hippodrome du Petit Port": {
+   "aliases": [
+    "Hippodrome de Nantes",
+    "Hippodrome du Petit-Port",
+    "Petit Port racecourse"
+   ],
+   "capacity": 5000,
+   "by_sport": {
+    "Hippisme": 5000
+   },
+   "approx": true,
+   "note": "Grandstands (1972) seat 5,000; infobox 5,350 incl. 350-seat panoramic restaurant. Race-day crowds can exceed seating (open lawns).",
+   "source": "https://en.wikipedia.org/wiki/Petit_Port_racecourse",
+   "sources_extra": [
+    "https://turfoo.fr/hippodromes/nantes/"
+   ]
+  },
+  "Stadium Pierre-Quinon": {
+   "aliases": [
+    "Stadium métropolitain Pierre-Quinon",
+    "Stadium Pierre Quinon",
+    "Pierre-Quinon"
+   ],
+   "capacity": 790,
+   "by_sport": {
+    "Athletics": 790
+   },
+   "approx": false,
+   "note": "Indoor athletics (200 m track). Nantes Métropole: 790 seats; Wikipedia/Mérimée: 532 around the track.",
+   "source": "https://metropole.nantes.fr/sortir/vie-locale/sport/equipements-haut-niveau",
+   "sources_extra": [
+    "https://en.wikipedia.org/wiki/Pierre-Quinon_Metropolitan_Stadium"
+   ]
+  }
+ },
+ "clubs": {
+  "FC Nantes": {
+   "match": "^FC Nantes(?!\\s*(F[ée]minines?\\b|\\(F\\)|Women|F\\b))",
+   "sport": "Football",
+   "competition": "Ligue 1 (2025-26)",
+   "venue": "Stade de la Beaujoire",
+   "avg_attendance": 27155,
+   "season": "2025-26",
+   "fill_rate": 0.77,
+   "sold_out_usual": false,
+   "approx": false,
+   "note": "Full-season 2025-26 Ligue 1 avg 27,155 (Foot-sur7 citing Stades-Spectateurs; not confirmed vs LFP per-club table). Mid-season LFP: 29,680, 83% (6th in L1). fill_rate derived vs 35,322. Relegated May 2026: 2026-27 Ligue 2 matches use the 'FC Nantes (Ligue 2)' entry. Used here for cup/other competitions.",
+   "source": "https://www.foot-sur7.fr/784041-stade-de-la-beaujoire-fc-nantes",
+   "sources_extra": [
+    "https://www.90min.com/fr/ligue-1-le-classement-des-meilleures-affluences-de-la-saison-devoile-avec-l-om-et-le-psg-tres-bien-places-13-01-2026",
+    "https://widgets.datasportsgroup.com/sports-news/news/en/173391/nantes-suffer-first-relegation-to-ligue-2-in-13-years/"
+   ]
+  },
+  "FC Nantes (Ligue 2)": {
+   "match": "^FC Nantes(?!\\s*(F[ée]minines?\\b|\\(F\\)|Women|F\\b))",
+   "sport": "Football",
+   "competition": "Ligue 2 BKT",
+   "venue": "Stade de la Beaujoire",
+   "avg_attendance": 15944,
+   "season": "2026-27 (5 home matches with fans, to mid-Nov 2026)",
+   "fill_rate": 0.45,
+   "sold_out_usual": false,
+   "approx": true,
+   "note": "Partial-season figure: 79,722 spectators over 5 matches (J1 v Red Star behind closed doors, excluded). Kept alongside the 2025-26 L1 average because the Ligue 2 crowd is ~40% lower; the competition bonus in affluence.py selects this entry when the event competition contains 'Ligue 2'. fill_rate derived vs 35,322.",
+   "source": "https://tribunenantaise.fr/actus-fcnantes/fc-nantes-bilan-affluence-la-beaujoire-ligue-2/"
+  },
+  "FC Nantes Féminines": {
+   "match": "^FC Nantes\\s*(F[ée]minines?\\b|\\(F\\)|Women|F\\b)",
+   "sport": "Football",
+   "competition": "Arkema Première Ligue",
+   "venue": "Stade Marcel-Saupin",
+   "avg_attendance": 928,
+   "all_venues_avg_attendance": 5776,
+   "season": "2025-26 (first half only, Marcel-Saupin games)",
+   "fill_rate": null,
+   "sold_out_usual": false,
+   "approx": true,
+   "note": "avg_attendance = first-half average of the Marcel-Saupin games only (928). The all-venue first-half average (5,776, best in the league) is inflated by two Beaujoire games (17,491 v Marseille 14 Dec 2025, league record outside OL/PSG; 13,454 v Paris FC 12 Oct 2025). Matches moved to La Beaujoire draw 13,000-17,500: treat them as one-off events.",
+   "source": "https://footamateur.ouest-france.fr/premiere-ligue-le-fc-nantes-en-tete-des-affluences/",
+   "sources_extra": [
+    "https://fr.soccerway.com/actualites/football-premiere-ligue-femmes-devant-une-affluence-record-a-la-beaujoire-nantes-ecrase-l-om-et-reste-dans-le-top-4/6cRoqmxg",
+    "https://www.fff.fr/article/17227-nantes-la-saison-d-apres.html"
+   ]
+  },
+  "HBC Nantes": {
+   "match": "^H\\.?B\\.?C\\.? Nantes(?!\\s*(F[ée]minines?\\b|\\(F\\)))",
+   "sport": "Handball",
+   "competition": "Starligue / EHF Champions League",
+   "venue": "H Arena",
+   "avg_attendance": 6834,
+   "season": "2025-26",
+   "fill_rate": 0.99,
+   "sold_out_usual": true,
+   "approx": true,
+   "note": "Club: 170,862 spectators, 24 of 25 home games sold out (all competitions, club record). avg = 170,862/25 (derived); exceeds the 5,902 H Arena capacity because of '5 XXL' games at Hall XXL (~10,700). fill_rate 99% = LNH 2023-24 (6,458 avg) / club 99.9% in 2024-25. 3,000+ season-ticket holders.",
+   "source": "https://hbcnantes.com/le-club/h-arena/",
+   "sources_extra": [
+    "https://www.ecofoot.fr/hbcnantes-food-beverage-developpement-6309/",
+    "https://www.lnh.fr/lnh/news/2024-07-25/1-million-de-spectateurs-en-lnh-cette-saison"
+   ]
+  },
+  "Nantes Basket Hermine": {
+   "match": "^(Nantes Basket Hermine|Hermine (de )?Nantes|NBH\\b)",
+   "sport": "Basketball",
+   "competition": "Élite 2",
+   "venue": "Salle sportive métropolitaine de la Trocardière",
+   "avg_attendance": 2236,
+   "season": "2025-26 (first half only)",
+   "fill_rate": 0.52,
+   "sold_out_usual": false,
+   "approx": true,
+   "note": "LNB first-half table (28 Jan 2026); Élite 2 league avg 2,683 (77%). Same club as 'Hermine de Nantes'; at La Trocardière (Rezé) since 2018, not Mangin-Beaulieu. 7 home games sold out in 2025-26 incl. playoff semi-final v Poitiers (6 June 2026). fill_rate per LNB vs ~4,238.",
+   "source": "https://cdn.lnb.fr/uploads/content-library/687ea1e199dab29092ca8ac72dc0937673aa5b25b224170756a37d8b45bf1623.pdf",
+   "sources_extra": [
+    "https://metropole.nantes.fr/actualites/nantes-basket-hermine-s-inscrire-dans-la-continuite",
+    "https://info.fr/nantes-basket-hermine-guichets-fermes-trocardiere-demi-finale-retour-poitiers-2026-06/"
+   ]
+  },
+  "Volley-Ball Nantes (Neptunes de Nantes)": {
+   "match": "^(Volley[- ]?Ball Nantes|VB Nantes|Neptunes( de)? Nantes(?!\\s*Hand)|Nantes Volley)",
+   "sport": "Volleyball",
+   "competition": "Saforelle Power 6",
+   "venue": "Complexe sportif Mangin-Beaulieu",
+   "avg_attendance": null,
+   "sample_attendances": {
+    "Power 6, 18 Dec 2024 v Chamalières": 1102
+   },
+   "season": "2024-25 (sample only)",
+   "fill_rate": null,
+   "sold_out_usual": false,
+   "approx": true,
+   "note": "Women's volleyball, plays as 'Neptunes de Nantes'. No season average found; one LNV match-sheet sample. Spent 2025-26 in the amateur Élite division (shareholder Réalités withdrew); back in Power 6 for 2026-27 (administrative reinstatement).",
+   "source": "https://www.lnv.fr/pdf/2024/DataVolley/Women/LAF094-2025.pdf",
+   "sources_extra": [
+    "https://metropole.nantes.fr/actualites/neptunes-de-nantes-l-objectif-premier-c-est-de-se-maintenir",
+    "https://metropole.nantes.fr/actualites/les-neptunes-de-nantes-remontent-au-filet"
+   ]
+  },
+  "Corsaires de Nantes": {
+   "match": "^(Corsaires (de )?Nantes|Nantes Atlantique Hockey Glace|NAHG\\b)",
+   "sport": "Ice hockey",
+   "competition": "Division 1 (FFHG)",
+   "venue": "Patinoire du Petit Port",
+   "avg_attendance": null,
+   "season": "2025-26",
+   "fill_rate": null,
+   "sold_out_usual": null,
+   "approx": true,
+   "note": "No attendance figure found. Plays Division 1, not Ligue Magnus. Venue capacity ~1,060 is the only bound.",
+   "source": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/hockey-sur-glace-les-corsaires-de-nantes-recoivent-lyon-au-petit-port",
+   "sources_extra": [
+    "https://en.wikipedia.org/wiki/Corsaires_de_Nantes"
+   ]
+  },
+  "Stade Nantais": {
+   "match": "^Stade Nantais",
+   "sport": "Rugby",
+   "competition": "Nationale 2",
+   "venue": "Stade Pascal-Laporte",
+   "avg_attendance": null,
+   "season": "2025-26",
+   "fill_rate": null,
+   "sold_out_usual": null,
+   "approx": true,
+   "note": "No attendance figure found (semi-pro, Nationale 2).",
+   "source": "https://en.wikipedia.org/wiki/Stade_Nantais"
+  }
+ },
+ "events": {
+  "Jumping International de Nantes": {
+   "match": "Jumping[^\\n]*Nantes",
+   "attendance": null,
+   "daily": null,
+   "edition": null,
+   "unit": "spectateurs",
+   "approx": true,
+   "note": "No current Nantes international show-jumping event found (only a CSI3* de Nantes ~2010). Nearest big event is Jumping International de La Baule (CSIO5*, June, outside Nantes metro).",
+   "source": "https://www.ffe.com/actualites/Interview-de-Laurent-Elias-selectionneur-national-de-saut-d-obstacles"
+  },
+  "HBC Nantes Saga XXL": {
+   "match": "Saga XXL",
+   "attendance": 10753,
+   "daily": 10753,
+   "edition": "record D1 match HBC Nantes v PSG, Hall XXL (2014)",
+   "unit": "spectateurs (single match)",
+   "approx": true,
+   "note": "Record crowd for a French D1 handball match at Hall XXL (third-party blog). No figure for the Dec 2025 Saga XXL games. Regular league titles use the HBC Nantes club entry.",
+   "source": "https://abargenteuil.fr/blog/salle-xxl-nantes-handball/",
+   "sources_extra": [
+    "https://metropole.nantes.fr/actualites/hbc-nantes-viser-le-titre-de-champion-de-france"
+   ]
+  },
+  "Open Nantes Atlantique (tennis)": {
+   "match": "Open[^\\n]*Nantes Atlantique|Engie Open|Open Engie",
+   "attendance": null,
+   "daily": null,
+   "edition": "2026 (ITF W50, SNUC, 30 Mar-4 Apr)",
+   "unit": "spectateurs",
+   "approx": true,
+   "note": "No attendance published. Women's ITF event.",
+   "source": "https://www.itftennis.com/en/tournament/w50-nantes/fra/2026/w-itf-fra-2026-011"
+  },
+  "Courses hippiques Nantes": {
+   "match": "Hippodrome[^\\n]*Nantes|Courses hippiques|R[ée]union hippique",
+   "attendance": null,
+   "daily": null,
+   "edition": null,
+   "unit": "spectateurs",
+   "approx": true,
+   "note": "No attendance published by the racecourse (stands seat 5,000).",
+   "source": "https://www.hippodrome-nantes.fr/"
+  },
+  "Nantes International Meeting": {
+   "match": "Nantes International Meeting|Meeting (international|indoor) de Nantes",
+   "attendance": null,
+   "daily": null,
+   "edition": null,
+   "unit": "spectateurs",
+   "approx": true,
+   "note": "Indoor athletics meeting at Stadium Pierre-Quinon (790 seats); no attendance published.",
+   "source": "https://www.finishers.com/en/event/nantes-international-meeting"
+  }
+ },
+ "races": {
+  "Marathon de Nantes": {
+   "match": "(?<!semi-)(?<!semi )Marathon de Nantes",
+   "participants": 23000,
+   "edition": "2026 (44e, 25-26 avril)",
+   "unit": "participants (toutes courses du week-end, relais entreprises inclus)",
+   "approx": true,
+   "note": "Organiser's rounded 'more than 23,000' (record; 21,544 in 2025). Breakdown: marathon 7,055 bibs, semi ~9,000, Foulées de l'Éléphant 10 km 7,093, 450+ relay teams. ~80,000 spectators reported.",
+   "source": "https://www.marathons.com/fr/10-km/abalone-marathon-de-nantes-2026-hamza-sahli-ameliore-le-record-en-2h15-19-23-000-coureurs-en-fete_r12n",
+   "sources_extra": [
+    "https://info.fr/marathon-nantes-2026-record-23000-coureurs-44e-edition/"
+   ]
+  },
+  "Semi-marathon de Nantes": {
+   "match": "Semi[- ]?marathon de Nantes",
+   "participants": 9000,
+   "edition": "2026",
+   "unit": "partants",
+   "approx": true,
+   "note": "'Près de 9 000' at the 8:00 start (26 Apr 2026); 2027 official cap is 7,000 bibs.",
+   "source": "https://www.marathons.com/fr/10-km/abalone-marathon-de-nantes-2026-hamza-sahli-ameliore-le-record-en-2h15-19-23-000-coureurs-en-fete_r12n"
+  },
+  "Foulées de l'Éléphant": {
+   "match": "Foul[ée]es de l.?[ée]l[ée]phant",
+   "participants": 7093,
+   "edition": "2026 (25 avril, nocturne)",
+   "unit": "coureurs (inscrits)",
+   "approx": false,
+   "note": "10 km of the Marathon de Nantes weekend.",
+   "source": "https://www.marathons.com/fr/10-km/abalone-marathon-de-nantes-2026-hamza-sahli-ameliore-le-record-en-2h15-19-23-000-coureurs-en-fete_r12n"
+  },
+  "Odysséa Nantes": {
+   "match": "Odyss[ée]a",
+   "participants": 19600,
+   "edition": "2026 (20e, 8 mars)",
+   "unit": "participants (coureurs + marcheurs)",
+   "approx": true,
+   "note": "Organiser figure, rounded (19,500 in 2025).",
+   "source": "https://odyssea.info/courses/odyssea-nantes/",
+   "sources_extra": [
+    "https://www.breizh-info.com/2026/02/12/256647/odyssea-nantes-2026-la-vague-rose-de-retour-pour-soutenir-la-lutte-contre-le-cancer-du-sein/"
+   ]
+  },
+  "Corrida de la Beaujoire": {
+   "match": "Corrida de la Beaujoire",
+   "participants": 1296,
+   "edition": "2025 (27 déc.)",
+   "unit": "participants (toutes courses)",
+   "approx": true,
+   "note": "Third-party listing (Miles Republic). 2026: 771/800 entries on the 9 km as of 17 Nov 2026 (Timepulse).",
+   "source": "https://fr.milesrepublic.com/event/corrida-de-la-beaujoire-5901",
+   "sources_extra": [
+    "https://www.timepulse.fr/evenements/voir/3618/corrida-de-la-beaujoire-nantes"
+   ]
+  },
+  "Trail Urbain Nantais / Tour de Chantenay": {
+   "match": "Tour de Chantenay|Trail (urbain nantais|de Chantenay)",
+   "participants": 1850,
+   "edition": "2025 (99e, 26 oct.)",
+   "unit": "participants (trail 17 km + Tour de Chantenay 8 km)",
+   "approx": true,
+   "note": "Third-party listing. 2026 (100th, 25 Oct) caps 1,500 + 1,000; no count found.",
+   "source": "https://fr.milesrepublic.com/event/trail-urbain-nantais-tour-de-chantenay-3737",
+   "sources_extra": [
+    "https://metropole.nantes.fr/actualites/le-tour-de-chantenay-une-100e-tres-courue"
+   ]
+  },
+  "Trail de Nantes à Montaigu": {
+   "match": "Trail de Nantes [àa] Montaigu",
+   "participants": 1100,
+   "edition": "2025",
+   "unit": "participants",
+   "approx": true,
+   "note": "Third-party listing; 2026 edition (26 Sept) sold out, no count.",
+   "source": "https://fr.milesrepublic.com/event/trail-de-nantes-a-montaigu-2679",
+   "sources_extra": [
+    "https://metropole.nantes.fr/que-faire-a-nantes/agenda/trail-de-nantes-a-montaigu-2026"
+   ]
+  },
+  "Naoned Urban Trail": {
+   "match": "Naoned Urban Trail|Nantes Urban Trail|Urban Trail (de )?Nantes",
+   "participants": null,
+   "edition": "2026 (2e, 31 mai)",
+   "unit": "participants",
+   "approx": true,
+   "note": "No participant figure found (8/16/24 km).",
+   "source": "https://www.finishers.com/fr/course/naoned-urban-trail"
+  },
+  "Les Foulées du Tram": {
+   "match": "Foul[ée]es du Tram",
+   "participants": null,
+   "edition": "2025 (12 oct.)",
+   "unit": "participants",
+   "approx": true,
+   "note": "Free race, listed as full in 2025; no count found.",
+   "source": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/les-foulees-du-tram-2025"
+  }
+ },
+ "tickets_note": "No public source exposes remaining-ticket counts without an API key. Ticketmaster Discovery API returns onsale/offsale status and on-sale dates, not seats remaining. Club shops (FC Nantes behind Queue-it, HBC Nantes, Nantes Basket Hermine) show only 'complet' / 'dernières places' flags. Practical keyless proxy: official 'complet' signals plus the historical fill rates in this file (HBC Nantes ~99%, 24/25 games sold out in 2025-26)."
+}

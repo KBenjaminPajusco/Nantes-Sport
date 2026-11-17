@@ -1,0 +1,1731 @@
+[
+  {
+    "title": "Nantes Basket Hermine – Saint-Chamond Andrézieux-Bouthéon",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2026-11-20T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Saint-Chamond Andrézieux-Bouthéon à la Trocardière en Élite 2. Soirée spéciale avec showcase de Black M après la rencontre.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – Sélestat Alsace Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J11",
+    "federation": "LNH",
+    "date_start": "2026-11-21T20:30",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Le HBC Nantes reçoit Sélestat Alsace Handball pour la 11e journée de Starligue à la H Arena.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – PA Créhen",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J6",
+    "federation": "FFRS",
+    "date_start": "2026-11-22",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit PA Créhen en N1 Élite de rink hockey. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Hockey Club de Nantes – Le Touquet HC",
+    "sport": "Hockey sur gazon",
+    "category": "Match pro",
+    "competition": "Championnat Élite (hockey sur gazon)",
+    "federation": "FFH",
+    "date_start": "2026-11-22",
+    "date_end": null,
+    "venue": "Plaine de jeux de la Colinière",
+    "address": "121 rue du Landreau, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://globalsportsarchive.com/team/field_hockey/hc-nantes/67056/",
+    "price": "Non communiqué",
+    "tentative": true,
+    "description": "Le Hockey Club de Nantes reçoit Le Touquet HC sur le synthétique de la Colinière en Élite. Date issue d'un agrégateur, à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Grenoble Foot 38",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J13",
+    "federation": "LFP",
+    "date_start": "2026-11-23T20:45",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Le FC Nantes reçoit Grenoble Foot 38 à la Beaujoire pour la 13e journée de Ligue 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – Évreux VB",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J10",
+    "federation": "LNV",
+    "date_start": "2026-11-27T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent Évreux VB à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Stade Nantais – Villeurbanne",
+    "sport": "Rugby",
+    "category": "Match pro",
+    "competition": "Nationale 2 – J10",
+    "federation": "FFR",
+    "date_start": "2026-11-28",
+    "date_end": null,
+    "venue": "Stade Pascal-Laporte",
+    "address": "Stade Pascal-Laporte, Nantes",
+    "city": "Nantes",
+    "url": "https://www.stadenantais.fr/articles/E75A7F49-0047-4C7C-87DE-C9AAC49402F3",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le Stade Nantais reçoit Villeurbanne à Pascal-Laporte pour la 10e journée de Nationale 2. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Wildcats d'Épinal",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2026-11-28T18:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Wildcats d'Épinal au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – Étoile Lavalloise FC",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J9",
+    "federation": "FFF",
+    "date_start": "2026-11-28T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit Étoile Lavalloise FC à Mangin-Beaulieu pour la 9e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – SA Gazinet Cestas",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J7",
+    "federation": "FFRS",
+    "date_start": "2026-11-29",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit SA Gazinet Cestas en N1 Élite de rink hockey. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Le Havre",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2026-12-04T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Le Havre à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Yétis du Mont-Blanc",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2026-12-05T18:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Yétis du Mont-Blanc au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "ALC Bouguenais – Nantes ARH",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J8",
+    "federation": "FFRS",
+    "date_start": "2026-12-06",
+    "date_end": null,
+    "venue": "Salle de rink hockey de l'ALC Bouguenais",
+    "address": "Bouguenais (salle à confirmer)",
+    "city": "Bouguenais",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Derby métropolitain de N1 Élite de rink hockey entre l'ALC Bouguenais et Nantes ARH. Horaire et salle à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Toulouse FC",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Coupe LFFP – J4",
+    "federation": "FFF",
+    "date_start": "2026-12-09T15:00",
+    "date_end": null,
+    "venue": "Stade Marcel-Saupin",
+    "address": "Quai Malakoff, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/feminines/20262027/calendrier_D1F.php",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Nantaises reçoivent Toulouse pour la 4e journée de la Coupe LFFP (stade à confirmer).",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "FC Nantes – FC Annecy",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J15",
+    "federation": "LFP",
+    "date_start": "2026-12-11T20:00",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Le FC Nantes reçoit FC Annecy à la Beaujoire pour la 15e journée de Ligue 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Fos-sur-Mer",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2026-12-11T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Fos-sur-Mer à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – OL Lyonnes",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Arkema Première Ligue – J11",
+    "federation": "FFF",
+    "date_start": "2026-12-12T17:00",
+    "date_end": null,
+    "venue": "Stade Marcel-Saupin",
+    "address": "Quai Malakoff, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/feminines/20262027/calendrier_D1F.php",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Choc de l'Arkema Première Ligue : les Nantaises accueillent l'OL Lyonnes à Marcel-Saupin.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – Sporting Club de Paris",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J11",
+    "federation": "FFF",
+    "date_start": "2026-12-12T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit Sporting Club de Paris à Mangin-Beaulieu pour la 11e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – Paris Saint-Germain Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J14",
+    "federation": "LNH",
+    "date_start": "2026-12-13T17:00",
+    "date_end": null,
+    "venue": "Parc des Expositions de la Beaujoire (Hall XXL)",
+    "address": "Route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Le HBC Nantes reçoit Paris Saint-Germain Handball pour la 14e journée de Starligue au Hall XXL du Parc des Expositions de la Beaujoire.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – US Saint-Malo",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Arkema Première Ligue – J12",
+    "federation": "FFF",
+    "date_start": "2026-12-19",
+    "date_end": null,
+    "venue": "Stade Marcel-Saupin",
+    "address": "Quai Malakoff, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/feminines/20262027/calendrier_D1F.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Les féminines du FC Nantes reçoivent US Saint-Malo pour la 12e journée d'Arkema Première Ligue. Date et horaire à confirmer.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Éléphants de Chambéry",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2026-12-19T18:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Éléphants de Chambéry au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – Le Cannet",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J14",
+    "federation": "LNV",
+    "date_start": "2026-12-22T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent Le Cannet à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – La Rochelle",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2026-12-22T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit La Rochelle à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – Limoges Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J15",
+    "federation": "LNH",
+    "date_start": "2026-12-22T20:30",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Le HBC Nantes reçoit Limoges Handball pour la 15e journée de Starligue à la H Arena.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Orléans",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-01-08T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Orléans à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Stade Nantais – Floirac",
+    "sport": "Rugby",
+    "category": "Match pro",
+    "competition": "Nationale 2 – J13",
+    "federation": "FFR",
+    "date_start": "2027-01-09",
+    "date_end": null,
+    "venue": "Stade Pascal-Laporte",
+    "address": "Stade Pascal-Laporte, Nantes",
+    "city": "Nantes",
+    "url": "https://www.stadenantais.fr/articles/E75A7F49-0047-4C7C-87DE-C9AAC49402F3",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le Stade Nantais reçoit Floirac à Pascal-Laporte pour la 13e journée de Nationale 2. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Remparts de Tours",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-01-09T18:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Remparts de Tours au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – Saint-Dié-des-Vosges",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J16",
+    "federation": "LNV",
+    "date_start": "2027-01-09T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent Saint-Dié-des-Vosges à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – HC Linas-Montlhéry",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J9",
+    "federation": "FFRS",
+    "date_start": "2027-01-10",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit HC Linas-Montlhéry en N1 Élite de rink hockey. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – FC Metz",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J17",
+    "federation": "LFP",
+    "date_start": "2027-01-15",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit FC Metz à la Beaujoire pour la 17e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Levallois",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-01-15T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Levallois à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Bisons de Neuilly-sur-Marne",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-01-16T18:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Bisons de Neuilly-sur-Marne au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – Toulon Métropole Futsal",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J13",
+    "federation": "FFF",
+    "date_start": "2027-01-16T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit Toulon Métropole Futsal à Mangin-Beaulieu pour la 13e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "AL Saint-Sébastien – Nantes ARH",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J10",
+    "federation": "FFRS",
+    "date_start": "2027-01-17",
+    "date_end": null,
+    "venue": "Salle de rink hockey de l'AL Saint-Sébastien",
+    "address": "Saint-Sébastien-sur-Loire (salle à confirmer)",
+    "city": "Saint-Sébastien-sur-Loire",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Derby métropolitain de N1 Élite de rink hockey entre l'AL Saint-Sébastien et Nantes ARH. Horaire et salle à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Paris Saint-Germain",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Arkema Première Ligue – J14",
+    "federation": "FFF",
+    "date_start": "2027-01-23",
+    "date_end": null,
+    "venue": "Stade Marcel-Saupin",
+    "address": "Quai Malakoff, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/feminines/20262027/calendrier_D1F.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Les féminines du FC Nantes reçoivent Paris Saint-Germain pour la 14e journée d'Arkema Première Ligue. Date et horaire à confirmer.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – Artistes Futsal",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J14",
+    "federation": "FFF",
+    "date_start": "2027-01-23T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit Artistes Futsal à Mangin-Beaulieu pour la 14e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – RSC Wasquehal",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J11",
+    "federation": "FFRS",
+    "date_start": "2027-01-24",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit RSC Wasquehal en N1 Élite de rink hockey. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Corsaires de Dunkerque",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-01-26T20:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Corsaires de Dunkerque au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – En Avant Guingamp",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J19",
+    "federation": "LFP",
+    "date_start": "2027-01-29",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit En Avant Guingamp à la Beaujoire pour la 19e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Aix-Maurienne",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-01-29T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Aix-Maurienne à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Stade Nantais – Genève",
+    "sport": "Rugby",
+    "category": "Match pro",
+    "competition": "Nationale 2 – J15",
+    "federation": "FFR",
+    "date_start": "2027-01-30",
+    "date_end": null,
+    "venue": "Stade Pascal-Laporte",
+    "address": "Stade Pascal-Laporte, Nantes",
+    "city": "Nantes",
+    "url": "https://www.stadenantais.fr/articles/E75A7F49-0047-4C7C-87DE-C9AAC49402F3",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le Stade Nantais reçoit Genève à Pascal-Laporte pour la 15e journée de Nationale 2. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – Levallois Paris Saint-Cloud",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J19",
+    "federation": "LNV",
+    "date_start": "2027-01-30T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent Levallois Paris Saint-Cloud à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Drakkars de Caen",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-02-02T20:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Drakkars de Caen au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Lynx de Valence",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-02-06T18:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Lynx de Valence au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – CO Pacé",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J12",
+    "federation": "FFRS",
+    "date_start": "2027-02-07",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit CO Pacé en N1 Élite de rink hockey. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Poitiers",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-02-09T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Poitiers à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – US Boulogne Côte d'Opale",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J21",
+    "federation": "LFP",
+    "date_start": "2027-02-12",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit US Boulogne Côte d'Opale à la Beaujoire pour la 21e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Hyères-Toulon",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-02-12T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Hyères-Toulon à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – Bordeaux-Mérignac",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J21",
+    "federation": "LNV",
+    "date_start": "2027-02-13T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent Bordeaux-Mérignac à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Comètes de Meudon",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-02-16T20:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Comètes de Meudon au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Olympique de Marseille",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Arkema Première Ligue – J16",
+    "federation": "FFF",
+    "date_start": "2027-02-20",
+    "date_end": null,
+    "venue": "Stade Marcel-Saupin",
+    "address": "Quai Malakoff, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/feminines/20262027/calendrier_D1F.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Les féminines du FC Nantes reçoivent Olympique de Marseille pour la 16e journée d'Arkema Première Ligue. Date et horaire à confirmer.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – USDK Dunkerque",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J18",
+    "federation": "LNH",
+    "date_start": "2027-02-20",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le HBC Nantes reçoit USDK Dunkerque pour la 18e journée de Starligue à la H Arena. Horaire à confirmer par la LNH.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – France Avenir",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J22",
+    "federation": "LNV",
+    "date_start": "2027-02-20T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent France Avenir à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Dogs de Cholet",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-02-23T20:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Dogs de Cholet au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Pau FC",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J23",
+    "federation": "LFP",
+    "date_start": "2027-02-26",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit Pau FC à la Beaujoire pour la 23e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Stade Nantais – Marmande",
+    "sport": "Rugby",
+    "category": "Match pro",
+    "competition": "Nationale 2 – J18",
+    "federation": "FFR",
+    "date_start": "2027-02-27",
+    "date_end": null,
+    "venue": "Stade Pascal-Laporte",
+    "address": "Stade Pascal-Laporte, Nantes",
+    "city": "Nantes",
+    "url": "https://www.stadenantais.fr/articles/E75A7F49-0047-4C7C-87DE-C9AAC49402F3",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le Stade Nantais reçoit Marmande à Pascal-Laporte pour la 18e journée de Nationale 2. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – Biarritz Olympique",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J14",
+    "federation": "FFRS",
+    "date_start": "2027-02-28",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit Biarritz Olympique en N1 Élite de rink hockey. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – Cannes",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J24",
+    "federation": "LNV",
+    "date_start": "2027-03-02T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent Cannes à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – Montpellier Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J20",
+    "federation": "LNH",
+    "date_start": "2027-03-06",
+    "date_end": null,
+    "venue": "Parc des Expositions de la Beaujoire (Hall XXL)",
+    "address": "Route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le HBC Nantes reçoit Montpellier Handball pour la 20e journée de Starligue au Hall XXL du Parc des Expositions de la Beaujoire. Horaire à confirmer par la LNH.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Corsaires de Nantes – Diables Rouges de Valenciennes",
+    "sport": "Hockey sur glace",
+    "category": "Match pro",
+    "competition": "Division 1 – saison régulière",
+    "federation": "FFHG",
+    "date_start": "2027-03-06T18:00",
+    "date_end": null,
+    "venue": "Patinoire du Petit Port",
+    "address": "Boulevard du Petit Port, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.corsairesdenantes.fr/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Corsaires de Nantes affrontent Diables Rouges de Valenciennes au Petit Port en Division 1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – Nice Futsal Club",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J16",
+    "federation": "FFF",
+    "date_start": "2027-03-06T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit Nice Futsal Club à Mangin-Beaulieu pour la 16e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Hockey Club de Nantes – FC Lyon",
+    "sport": "Hockey sur gazon",
+    "category": "Match pro",
+    "competition": "Championnat Élite (hockey sur gazon)",
+    "federation": "FFH",
+    "date_start": "2027-03-07",
+    "date_end": null,
+    "venue": "Plaine de jeux de la Colinière",
+    "address": "121 rue du Landreau, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://globalsportsarchive.com/team/field_hockey/hc-nantes/67056/",
+    "price": "Non communiqué",
+    "tentative": true,
+    "description": "Le Hockey Club de Nantes reçoit FC Lyon sur le synthétique de la Colinière en Élite. Date issue d'un agrégateur, à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – AS Saint-Étienne",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J25",
+    "federation": "LFP",
+    "date_start": "2027-03-12",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit AS Saint-Étienne à la Beaujoire pour la 25e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Caen",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-03-12T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Caen à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Neptunes de Nantes – Chamalières",
+    "sport": "Volley-ball",
+    "category": "Match pro",
+    "competition": "Saforelle VOLSTAR – J26",
+    "federation": "LNV",
+    "date_start": "2027-03-13T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "2 rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.neptunesvolley.com/calendrier",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Les Neptunes de Nantes, de retour dans l'élite, reçoivent Chamalières à Mangin-Beaulieu.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Denain",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-03-19T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Denain à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Paris FC",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Arkema Première Ligue – J18",
+    "federation": "FFF",
+    "date_start": "2027-03-20",
+    "date_end": null,
+    "venue": "Stade Marcel-Saupin",
+    "address": "Quai Malakoff, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/feminines/20262027/calendrier_D1F.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Les féminines du FC Nantes reçoivent Paris FC pour la 18e journée d'Arkema Première Ligue. Date et horaire à confirmer.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – C'Chartres Métropole Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J22",
+    "federation": "LNH",
+    "date_start": "2027-03-27",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le HBC Nantes reçoit C'Chartres Métropole Handball pour la 22e journée de Starligue à la H Arena. Horaire à confirmer par la LNH.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Stade Nantais – Salles",
+    "sport": "Rugby",
+    "category": "Match pro",
+    "competition": "Nationale 2 – J20",
+    "federation": "FFR",
+    "date_start": "2027-03-27",
+    "date_end": null,
+    "venue": "Stade Pascal-Laporte",
+    "address": "Stade Pascal-Laporte, Nantes",
+    "city": "Nantes",
+    "url": "https://www.stadenantais.fr/articles/E75A7F49-0047-4C7C-87DE-C9AAC49402F3",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le Stade Nantais reçoit Salles à Pascal-Laporte pour la 20e journée de Nationale 2. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – Montpellier Méditerranée Futsal",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J18",
+    "federation": "FFF",
+    "date_start": "2027-03-27T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit Montpellier Méditerranée Futsal à Mangin-Beaulieu pour la 18e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – AL Plonéour-Lanvern",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J16",
+    "federation": "FFRS",
+    "date_start": "2027-03-28",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit AL Plonéour-Lanvern en N1 Élite de rink hockey. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – FC Sochaux-Montbéliard",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J27",
+    "federation": "LFP",
+    "date_start": "2027-04-02",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit FC Sochaux-Montbéliard à la Beaujoire pour la 27e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Blois",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-04-02T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Blois à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Hockey Club de Nantes – PHC Marcq-en-Barœul",
+    "sport": "Hockey sur gazon",
+    "category": "Match pro",
+    "competition": "Championnat Élite (hockey sur gazon)",
+    "federation": "FFH",
+    "date_start": "2027-04-04",
+    "date_end": null,
+    "venue": "Plaine de jeux de la Colinière",
+    "address": "121 rue du Landreau, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://globalsportsarchive.com/team/field_hockey/hc-nantes/67056/",
+    "price": "Non communiqué",
+    "tentative": true,
+    "description": "Le Hockey Club de Nantes reçoit PHC Marcq-en-Barœul sur le synthétique de la Colinière en Élite. Date issue d'un agrégateur, à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Châlons-Reims",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-04-09T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Châlons-Reims à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – USAM Nîmes Gard",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J24",
+    "federation": "LNH",
+    "date_start": "2027-04-10",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le HBC Nantes reçoit USAM Nîmes Gard pour la 24e journée de Starligue à la H Arena. Horaire à confirmer par la LNH.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Stade Nantais – Drancy",
+    "sport": "Rugby",
+    "category": "Match pro",
+    "competition": "Nationale 2 – J22",
+    "federation": "FFR",
+    "date_start": "2027-04-11",
+    "date_end": null,
+    "venue": "Stade Pascal-Laporte",
+    "address": "Stade Pascal-Laporte, Nantes",
+    "city": "Nantes",
+    "url": "https://www.stadenantais.fr/articles/E75A7F49-0047-4C7C-87DE-C9AAC49402F3",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le Stade Nantais reçoit Drancy à Pascal-Laporte pour la 22e journée de Nationale 2. Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Hockey Club de Nantes – IH Lambersart",
+    "sport": "Hockey sur gazon",
+    "category": "Match pro",
+    "competition": "Championnat Élite (hockey sur gazon)",
+    "federation": "FFH",
+    "date_start": "2027-04-11",
+    "date_end": null,
+    "venue": "Plaine de jeux de la Colinière",
+    "address": "121 rue du Landreau, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://globalsportsarchive.com/team/field_hockey/hc-nantes/67056/",
+    "price": "Non communiqué",
+    "tentative": true,
+    "description": "Le Hockey Club de Nantes reçoit IH Lambersart sur le synthétique de la Colinière en Élite. Date issue d'un agrégateur, à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Antibes",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-04-16T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Antibes à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – Cesson Rennes Métropole Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J26",
+    "federation": "LNH",
+    "date_start": "2027-04-17",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le HBC Nantes reçoit Cesson Rennes Métropole Handball pour la 26e journée de Starligue à la H Arena. Horaire à confirmer par la LNH.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Montpellier HSC",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J30",
+    "federation": "LFP",
+    "date_start": "2027-04-23",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit Montpellier HSC à la Beaujoire pour la 30e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – Saran Loiret Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J27",
+    "federation": "LNH",
+    "date_start": "2027-04-24",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le HBC Nantes reçoit Saran Loiret Handball pour la 27e journée de Starligue à la H Arena. Horaire à confirmer par la LNH.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – AS Avion Futsal",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J20",
+    "federation": "FFF",
+    "date_start": "2027-04-24T20:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit AS Avion Futsal à Mangin-Beaulieu pour la 20e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Le Havre AC",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Arkema Première Ligue – J21",
+    "federation": "FFF",
+    "date_start": "2027-05-01",
+    "date_end": null,
+    "venue": "Stade Marcel-Saupin",
+    "address": "Quai Malakoff, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/feminines/20262027/calendrier_D1F.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Les féminines du FC Nantes reçoivent Le Havre AC pour la 21e journée d'Arkema Première Ligue. Date et horaire à confirmer.",
+    "tags": [
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – ALC Bouguenais",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J19",
+    "federation": "FFRS",
+    "date_start": "2027-05-02",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit ALC Bouguenais en N1 Élite de rink hockey. Derby de la métropole ! Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Dijon FCO",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J32",
+    "federation": "LFP",
+    "date_start": "2027-05-07",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit Dijon FCO à la Beaujoire pour la 32e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Basket Hermine – Évreux",
+    "sport": "Basket-ball",
+    "category": "Match pro",
+    "competition": "Élite 2 – saison régulière",
+    "federation": "LNB",
+    "date_start": "2027-05-07T20:00",
+    "date_end": null,
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "91 rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://www.nantes-basket.com/matchs/calendrier/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Nantes Basket Hermine reçoit Évreux à la Trocardière en Élite 2.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "FC Nantes – Stade Lavallois",
+    "sport": "Football",
+    "category": "Match pro",
+    "competition": "Ligue 2 BKT – J33",
+    "federation": "LFP",
+    "date_start": "2027-05-14",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 route de Saint-Joseph de Porterie, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.fcnantes.com/articles/20262027/calendrier.php",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le FC Nantes reçoit Stade Lavallois à la Beaujoire pour la 33e journée de Ligue 2. Date et horaire à confirmer par la LFP.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "HBC Nantes – Tremblay Handball",
+    "sport": "Handball",
+    "category": "Match pro",
+    "competition": "Daikin Starligue – J29",
+    "federation": "LNH",
+    "date_start": "2027-05-15",
+    "date_end": null,
+    "venue": "H Arena",
+    "address": "Rue André Tardieu, Île de Nantes, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Le HBC Nantes reçoit Tremblay Handball pour la 29e journée de Starligue à la H Arena. Horaire à confirmer par la LNH.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes Métropole Futsal – Goal Futsal Club",
+    "sport": "Futsal",
+    "category": "Match pro",
+    "competition": "D1 Futsal – J22",
+    "federation": "FFF",
+    "date_start": "2027-05-22T16:00",
+    "date_end": null,
+    "venue": "Salle Mangin Beaulieu",
+    "address": "Rue des Boires, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://epreuves.fff.fr/competition/club/582328-nantes-metropole-f/equipe/2026_189693_SESM_1/resultat-calendrier",
+    "price": "Payant (10 €, réduit 5 €)",
+    "tentative": false,
+    "description": "Nantes Métropole Futsal reçoit Goal Futsal Club à Mangin-Beaulieu pour la 22e journée de D1.",
+    "tags": [
+      "Masculin"
+    ]
+  },
+  {
+    "title": "Nantes ARH – AL Saint-Sébastien",
+    "sport": "Rink hockey",
+    "category": "Match pro",
+    "competition": "Nationale 1 Élite – J21",
+    "federation": "FFRS",
+    "date_start": "2027-05-23",
+    "date_end": null,
+    "venue": "Complexe sportif du Croissant",
+    "address": "29 rue du Croissant, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.nantes-arh.fr/calendrier-n1-%C3%A9lite",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Nantes Atlantique Rink Hockey reçoit AL Saint-Sébastien en N1 Élite de rink hockey. Derby de la métropole ! Horaire à confirmer.",
+    "tags": [
+      "Masculin"
+    ]
+  }
+]

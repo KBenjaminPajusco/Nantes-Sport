@@ -1,0 +1,878 @@
+[
+  {
+    "title": "Des Marais et des Bosses",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": null,
+    "date_start": "2026-11-22",
+    "date_end": null,
+    "venue": "Parc de la Carrière",
+    "address": null,
+    "city": "Saint-Herblain",
+    "url": "https://www.klikego.com/inscription/des-marais--des-bosses-by-cocerto-2026/running-course-a-pied/1771824655537-1",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Trail sur boucle de 10,5 km (10,5 / 21 / 31,5 / 42 km, relais à 2 ou 4), course solidaire de 5 km et course jeunes. Organisé par l'Outdoor Club Herblinois.",
+    "tags": [
+      "Trail",
+      "Relais",
+      "Marathon"
+    ]
+  },
+  {
+    "title": "Trail de l'Erdre",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": "FFA",
+    "date_start": "2026-11-29",
+    "date_end": null,
+    "venue": "Parc de la Chantrerie",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://gotrail.run/fr/evenement/trail-de-lerdre",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Trail de 12 km en deux boucles dans le parc de la Chantrerie et le long de l'Erdre (Stade Nantais Athletic Club), courses jeunes. Limité à 500 coureurs.",
+    "tags": [
+      "Trail",
+      "Erdre"
+    ]
+  },
+  {
+    "title": "Cross de la Chantrerie",
+    "sport": "Cross-country",
+    "category": "Course / épreuve participative",
+    "competition": "Cross",
+    "federation": "FFA",
+    "date_start": "2026-11-29",
+    "date_end": null,
+    "venue": "Parc de la Chantrerie",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://gotrail.run/fr/evenement/cross-de-la-chantrerie",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Cross toutes catégories dans le parc de la Chantrerie, organisé le même jour que le Trail de l'Erdre.",
+    "tags": [
+      "Cross"
+    ]
+  },
+  {
+    "title": "Course Nature de Bouguenais (nocturne)",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": null,
+    "date_start": "2026-12-05",
+    "date_end": null,
+    "venue": "Bouguenais",
+    "address": null,
+    "city": "Bouguenais",
+    "url": "https://gotrail.run/fr/evenement/course-nature-bouguenais",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Trail nocturne (12 et 19 km) et marche nordique chronométrée.",
+    "tags": [
+      "Trail",
+      "Nocturne",
+      "Marche nordique"
+    ]
+  },
+  {
+    "title": "Corrida de la Beaujoire",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Corrida",
+    "federation": "FFA",
+    "date_start": "2026-12-26T13:00",
+    "date_end": "2026-12-26T17:00",
+    "venue": "Stade de la Beaujoire",
+    "address": "330 Route de Saint-Joseph, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.timepulse.fr/evenements/voir/3618/corrida-de-la-beaujoire-nantes",
+    "price": "Payant (17 €, duo 22 €, enfants gratuit)",
+    "tentative": false,
+    "description": "Course sur route de fin d'année dans l'enceinte du FC Nantes (dont les marches du stade), challenge duo Jean Jahan et courses enfants gratuites. Organisée par l'ALPAC Nantes.",
+    "tags": [
+      "Corrida",
+      "Noël",
+      "Route"
+    ]
+  },
+  {
+    "title": "Bike & Run des Îles de Loire",
+    "sport": "Bike & Run",
+    "category": "Course / épreuve participative",
+    "competition": "Bike & Run",
+    "federation": "FFTri",
+    "date_start": "2027-01-31",
+    "date_end": null,
+    "venue": "Station Nuage",
+    "address": "Boulevard des Pas Enchantés, 44230 Saint-Sébastien-sur-Loire",
+    "city": "Saint-Sébastien-sur-Loire",
+    "url": "https://triveloce.com/bike-and-run",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Bike & Run en duo sur les îles de Loire (super sprint 8,5 km, sprint 17 km, formats jeunes 6-13 ans). Organisé par Tri Véloce Saint-Sébastien.",
+    "tags": [
+      "Bike & Run",
+      "Triathlon",
+      "Duo"
+    ]
+  },
+  {
+    "title": "Atlantic'Trail (Rezé – Pornic)",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail / Ultra",
+    "federation": null,
+    "date_start": "2027-02-26",
+    "date_end": "2027-02-28",
+    "venue": "Rezé (départ)",
+    "address": null,
+    "city": "Rezé",
+    "url": "https://www.atlantic-trail.fr",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Trail en ligne de Rezé à Pornic : 50 miles (80 km) semi-nocturne, relais 80 km (dont édition entreprises), 36 km et 15 km, marche solidaire de 57 km et randonnées. Courses enfants le 26/02.",
+    "tags": [
+      "Trail",
+      "Ultra",
+      "Relais"
+    ]
+  },
+  {
+    "title": "10 km de Carquefou (Carques'Foulées)",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "10 km",
+    "federation": "FFA",
+    "date_start": "2027-02-28",
+    "date_end": null,
+    "venue": "Carquefou",
+    "address": null,
+    "city": "Carquefou",
+    "url": "https://www.finishers.com/course/carquesfoulees",
+    "price": "Payant",
+    "tentative": true,
+    "description": "10 km sur route (une boucle) et courses jeunes. Date exacte non publiée (fin février 2027).",
+    "tags": [
+      "10 km",
+      "Route"
+    ]
+  },
+  {
+    "title": "Course / marche solidaire DIAB'attitudes44",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Course solidaire",
+    "federation": null,
+    "date_start": "2027-03-13",
+    "date_end": null,
+    "venue": "Hauts-Pavés – Saint-Félix",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://running.life/fr/evenement/coursemarche-solidaire-au-profit-de-diabattitudes44",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Course et marche solidaires (6 et 12 km) au profit de l'association DIAB'attitudes44.",
+    "tags": [
+      "Solidaire",
+      "Marche"
+    ]
+  },
+  {
+    "title": "Semi-marathon d'Orvault",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Semi-marathon",
+    "federation": "FFA",
+    "date_start": "2027-03-14",
+    "date_end": null,
+    "venue": "Rue de la Conraie",
+    "address": "1 Rue de la Conraie, 44700 Orvault",
+    "city": "Orvault",
+    "url": "https://semimarathonorvault.fr",
+    "price": "Payant (semi 21-24 €, 10 km 12-14 €)",
+    "tentative": false,
+    "description": "Semi-marathon (2 000 places) et 10 km, courses enfants. Inscriptions ouvertes depuis novembre 2026.",
+    "tags": [
+      "Semi-marathon",
+      "10 km",
+      "Route"
+    ]
+  },
+  {
+    "title": "Odysséa Nantes",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Course solidaire",
+    "federation": null,
+    "date_start": "2027-03-21",
+    "date_end": null,
+    "venue": "Centre-ville de Nantes",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://running.life/fr/evenement/odyssea-nantes",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Course et marche solidaires contre le cancer du sein (5 km, 10 km chronométré, 1 km enfants), organisées avec le Racing Club Nantais. Date relevée sur les calendriers de course, à confirmer par l'organisateur.",
+    "tags": [
+      "Solidaire",
+      "Cancer du sein",
+      "5 km",
+      "10 km"
+    ]
+  },
+  {
+    "title": "Les Foulées d'Atlantisport",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": null,
+    "date_start": "2027-03-28",
+    "date_end": null,
+    "venue": "Saint-Herblain",
+    "address": null,
+    "city": "Saint-Herblain",
+    "url": "https://gotrail.run/fr/evenement/atlantisport-environnement-trails",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Trails de 11 km et semi-marathon nature (Atlantisport-Environnement).",
+    "tags": [
+      "Trail"
+    ]
+  },
+  {
+    "title": "La Providenti'elles",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Course solidaire",
+    "federation": null,
+    "date_start": "2027-04-03",
+    "date_end": null,
+    "venue": "Rue des Chalâtres",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://running.life/fr/evenement/la-providentielles",
+    "price": "Payant (20 €, étudiants 15 €, -14 ans gratuit)",
+    "tentative": false,
+    "description": "Course et marche solidaires non chronométrées (5 km marche, 5 et 10 km course) contre l'isolement.",
+    "tags": [
+      "Solidaire",
+      "Marche"
+    ]
+  },
+  {
+    "title": "Trail du Vignoble Nantais",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail / Ultra",
+    "federation": null,
+    "date_start": "2027-04-10",
+    "date_end": "2027-04-11",
+    "venue": "Vertou",
+    "address": null,
+    "city": "Vertou",
+    "url": "https://gotrail.run/fr/evenement/trail-du-vignoble-nantais",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Grand rendez-vous trail du vignoble au départ de Vertou : distances de 8 à 105 km sur deux jours.",
+    "tags": [
+      "Trail",
+      "Ultra",
+      "Vignoble"
+    ]
+  },
+  {
+    "title": "Le Super Trail Nantais",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail urbain",
+    "federation": null,
+    "date_start": "2027-04-18",
+    "date_end": null,
+    "venue": "Stade de Procé",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.lesfouleesnantaises.fr/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Trail urbain le long de la vallée de la Chézine (44 km, relais, 18 km Chézin'Nature, 10 km Chézin'Run) par Les Foulées Nantaises. Date 2027 non publiée (édition 2026 : 19 avril).",
+    "tags": [
+      "Trail",
+      "Urbain"
+    ]
+  },
+  {
+    "title": "Foulées de l'Éléphant (10 km nocturne du Marathon de Nantes)",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "10 km",
+    "federation": "FFA",
+    "date_start": "2027-04-24",
+    "date_end": null,
+    "venue": "Île de Nantes",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.marathondenantes.com/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "10 km nocturne du week-end de l'Abalone Marathon de Nantes (complet, liste d'attente).",
+    "tags": [
+      "10 km",
+      "Nocturne",
+      "Marathon de Nantes"
+    ]
+  },
+  {
+    "title": "Abalone Marathon de Nantes",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Marathon",
+    "federation": "FFA",
+    "date_start": "2027-04-25T09:15",
+    "date_end": null,
+    "venue": "Les Nefs des Machines de l'Île",
+    "address": "4 Boulevard Léon Bureau, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.marathondenantes.com/marathon",
+    "price": "Payant (à partir de 61 €)",
+    "tentative": false,
+    "description": "Marathon (2 boucles) au départ des Nefs des Machines de l'Île, arrivée au Parc des Expositions de la Beaujoire.",
+    "tags": [
+      "Marathon",
+      "Route"
+    ]
+  },
+  {
+    "title": "Semi-marathon de Nantes",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Semi-marathon",
+    "federation": "FFA",
+    "date_start": "2027-04-25",
+    "date_end": null,
+    "venue": "Les Nefs des Machines de l'Île",
+    "address": "4 Boulevard Léon Bureau, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.marathondenantes.com/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Semi-marathon du week-end de l'Abalone Marathon de Nantes (complet, liste d'attente).",
+    "tags": [
+      "Semi-marathon",
+      "Marathon de Nantes"
+    ]
+  },
+  {
+    "title": "V and B Run Basse-Goulaine",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "10 km / 20 km",
+    "federation": null,
+    "date_start": "2027-05-23",
+    "date_end": null,
+    "venue": "Basse-Goulaine",
+    "address": null,
+    "city": "Basse-Goulaine",
+    "url": "https://www.finishers.com/course/v-and-b-run-basse-goulaine",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Courses de 10 et 20 km à Basse-Goulaine.",
+    "tags": [
+      "Route",
+      "10 km"
+    ]
+  },
+  {
+    "title": "Naoned Urban Trail",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail urbain",
+    "federation": null,
+    "date_start": "2027-05-30",
+    "date_end": null,
+    "venue": "Stade Michel-Lecointre",
+    "address": "2 Boulevard Maurice Bertin, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.naoned-urban-trail.fr/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Trail urbain sur l'Île de Nantes (~8, 16 et 24 km), départ/arrivée au stade Michel-Lecointre. Date 2027 non publiée (fin mai ; édition 2026 : 31 mai).",
+    "tags": [
+      "Trail",
+      "Urbain",
+      "Île de Nantes"
+    ]
+  },
+  {
+    "title": "Afterwork Party (semi-marathon en relais)",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Semi-marathon relais",
+    "federation": "FFA",
+    "date_start": "2027-06-17",
+    "date_end": null,
+    "venue": "Nantes (parc)",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.racingclubnantais.fr/index.php/theme-manif/afterwork-party",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Semi-marathon en relais dans un parc nantais au profit d'une cause caritative, organisé par le Racing Club Nantais. Date exacte non publiée (mi-juin 2027).",
+    "tags": [
+      "Relais",
+      "Afterwork",
+      "Solidaire"
+    ]
+  },
+  {
+    "title": "Les Foulées des Bords de Loire",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": null,
+    "date_start": "2027-06-13",
+    "date_end": null,
+    "venue": "Sainte-Luce-sur-Loire",
+    "address": null,
+    "city": "Sainte-Luce-sur-Loire",
+    "url": "https://www.finishers.com/course/les-foulees-des-bords-de-loire",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Trail (5,5 à 12 km) et marche nordique en bord de Loire. Date exacte non publiée (mi-juin 2027).",
+    "tags": [
+      "Trail",
+      "Marche nordique",
+      "Loire"
+    ]
+  },
+  {
+    "title": "Run for Planet Nantes",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "5 km / 10 km",
+    "federation": null,
+    "date_start": "2027-09-12",
+    "date_end": null,
+    "venue": "Ferme pédagogique de la Chantrerie",
+    "address": "95 Route de Gachet, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://running.life/fr/evenement/run-for-planet-nantes",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Course éco-responsable : 5 km non chronométré et 10 km chronométré (2 boucles) au parc de la Chantrerie, village solidaire.",
+    "tags": [
+      "Éco-responsable",
+      "10 km",
+      "Solidaire"
+    ]
+  },
+  {
+    "title": "Les Challenges de Rezé",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Semi-marathon",
+    "federation": null,
+    "date_start": "2027-09-12",
+    "date_end": null,
+    "venue": "Rezé",
+    "address": null,
+    "city": "Rezé",
+    "url": "https://www.finishers.com/course/les-challenges-de-reze",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Courses de 12,2 km et semi-marathon à Rezé. Date exacte non publiée (mi-septembre 2027).",
+    "tags": [
+      "Semi-marathon",
+      "Route"
+    ]
+  },
+  {
+    "title": "GET – Gesvres Endurance Trail",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": null,
+    "date_start": "2027-09-12",
+    "date_end": null,
+    "venue": "La Chapelle-sur-Erdre",
+    "address": null,
+    "city": "La Chapelle-sur-Erdre",
+    "url": "https://www.finishers.com/course/get-gesvres-endurance-trail-2",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Trails de 9, 18 et 27 km dans la vallée du Gesvres. Date exacte non publiée (mi-septembre 2027).",
+    "tags": [
+      "Trail"
+    ]
+  },
+  {
+    "title": "NeuroRun Nantes",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Course solidaire",
+    "federation": null,
+    "date_start": "2027-09-18",
+    "date_end": null,
+    "venue": "Parc naturel de Beaulieu",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.finishers.com/course/neurorun-nantes",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Course/marche solidaire non chronométrée (5,5 et 11 km) au profit de l'accompagnement des malades d'Alzheimer (Ping4Alzheimer). Date 2027 non publiée (édition 2026 : 19 septembre).",
+    "tags": [
+      "Solidaire",
+      "Alzheimer",
+      "Île de Nantes"
+    ]
+  },
+  {
+    "title": "Foulées de la Gournerie",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Course nature",
+    "federation": null,
+    "date_start": "2027-09-19",
+    "date_end": null,
+    "venue": "Parc de la Gournerie",
+    "address": null,
+    "city": "Saint-Herblain",
+    "url": "https://www.marathons.com/en/events/foulees-de-la-gournerie_CeTVZ",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Courses nature de 6 et 12 km au domaine de la Gournerie.",
+    "tags": [
+      "Nature",
+      "12 km"
+    ]
+  },
+  {
+    "title": "Trail Cens'Ationnel",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": null,
+    "date_start": "2027-09-19",
+    "date_end": null,
+    "venue": "Orvault",
+    "address": null,
+    "city": "Orvault",
+    "url": "https://www.finishers.com/course/trail-cens-ationnel",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Trails de 9, 12, 21 et 30 km le long du Cens. Date exacte non publiée (mi-septembre 2027).",
+    "tags": [
+      "Trail"
+    ]
+  },
+  {
+    "title": "Trail de Nantes à Montaigu",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail / Ultra",
+    "federation": null,
+    "date_start": "2027-09-25",
+    "date_end": null,
+    "venue": "Château des ducs de Bretagne",
+    "address": "4 Place Marc Elder, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://gotrail.run/fr/evenement/trail-de-nantes-a-montaigu",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Trail en ligne vers Montaigu par le vignoble (15 à 103 km) ; le 103 km part du château des ducs de Bretagne, le 54 km des Nefs des Machines. Date 2027 non publiée (édition 2026 : 26 septembre).",
+    "tags": [
+      "Trail",
+      "Ultra",
+      "Vignoble"
+    ]
+  },
+  {
+    "title": "Les Foulées du Vieux-Doulon",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Course de quartier",
+    "federation": null,
+    "date_start": "2027-09-26",
+    "date_end": null,
+    "venue": "Parc du Grand Blottereau",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://running.life/fr/evenement/les-foulees-du-vieux-doulon",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Course de quartier au parc du Grand Blottereau. Date 2027 non publiée (édition 2026 : 27 septembre).",
+    "tags": [
+      "Quartier",
+      "Doulon"
+    ]
+  },
+  {
+    "title": "Ekiden de Nantes by Décathlon Atlantis",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Ekiden",
+    "federation": "FFA",
+    "date_start": "2027-10-03",
+    "date_end": null,
+    "venue": "Boulevard Guy Mollet",
+    "address": "19 Boulevard Guy Mollet, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://ekiden-nantes.fr/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Marathon en relais par équipes de 6 (42,195 km) organisé par Nantes Métropole Athlétisme, avec challenge entreprises. Date 2027 non publiée (édition 2026 : 4 octobre).",
+    "tags": [
+      "Ekiden",
+      "Relais",
+      "Entreprises"
+    ]
+  },
+  {
+    "title": "Foulées de Vertou",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Route / Trail",
+    "federation": null,
+    "date_start": "2027-10-03",
+    "date_end": null,
+    "venue": "Vertou",
+    "address": null,
+    "city": "Vertou",
+    "url": "https://gotrail.run/fr/evenement/foulees-de-vertou",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Courses sur route et trail (5, 10, 24 km) à Vertou.",
+    "tags": [
+      "10 km",
+      "Trail"
+    ]
+  },
+  {
+    "title": "Duathlon de Couëron",
+    "sport": "Duathlon",
+    "category": "Course / épreuve participative",
+    "competition": "Duathlon",
+    "federation": "FFTri",
+    "date_start": "2027-10-03",
+    "date_end": null,
+    "venue": "Couëron",
+    "address": null,
+    "city": "Couëron",
+    "url": "https://www.finishers.com/course/duathlon-de-coueron",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Duathlon (27,5 km au total). Date exacte non publiée (début octobre 2027).",
+    "tags": [
+      "Duathlon",
+      "Multisport"
+    ]
+  },
+  {
+    "title": "Les Foulées du Tram",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "15 km",
+    "federation": "FFA",
+    "date_start": "2027-10-10",
+    "date_end": null,
+    "venue": "Cours Saint-Pierre (arrivée)",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.lesfouleesnantaises.fr/",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Course gratuite d'environ 15 km le long de la ligne de tram, de Sainte-Luce-sur-Loire au cours Saint-Pierre (Les Foulées Nantaises). Édition 2026 annulée ; date 2027 non publiée.",
+    "tags": [
+      "Route",
+      "Gratuit",
+      "Tram"
+    ]
+  },
+  {
+    "title": "Triathlon de Nantes & Triathlon des Roses",
+    "sport": "Triathlon",
+    "category": "Course / épreuve participative",
+    "competition": "Triathlon XS",
+    "federation": "FFTri",
+    "date_start": "2027-10-17",
+    "date_end": null,
+    "venue": "Piscine Léo-Lagrange (Île Gloriette)",
+    "address": "Rue Albert de Mun, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/triathlon-de-nantes-2681434",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Triathlon XS (natation en piscine, vélo, course le long de la Loire) du Triathlon Club Nantais, suivi du Triathlon des Roses solidaire (Fondation ARC). Date 2027 non publiée (édition 2026 : 18 octobre).",
+    "tags": [
+      "Triathlon",
+      "Solidaire"
+    ]
+  },
+  {
+    "title": "Trail Urbain Nantais – Tour de Chantenay",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail urbain",
+    "federation": null,
+    "date_start": "2027-10-24",
+    "date_end": null,
+    "venue": "Quartier Chantenay",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.trail-urbain-nantais.fr/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Trail urbain dans les rues, escaliers et parcs de Chantenay (8,4 et 17,6 km). Date 2027 non publiée (édition 2026 : 25 octobre).",
+    "tags": [
+      "Trail",
+      "Urbain",
+      "Chantenay"
+    ]
+  },
+  {
+    "title": "Des Marais et des Bosses",
+    "sport": "Trail",
+    "category": "Course / épreuve participative",
+    "competition": "Trail",
+    "federation": null,
+    "date_start": "2027-11-21",
+    "date_end": null,
+    "venue": "Parc de la Carrière",
+    "address": null,
+    "city": "Saint-Herblain",
+    "url": "https://www.finishers.com/course/des-marais-et-des-bosses",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Édition 2027 du trail de l'Outdoor Club Herblinois (boucle de 10,5 km, jusqu'au marathon, relais). Date non publiée (mi-novembre).",
+    "tags": [
+      "Trail",
+      "Relais"
+    ]
+  },
+  {
+    "title": "Corrida de la Beaujoire",
+    "sport": "Course à pied",
+    "category": "Course / épreuve participative",
+    "competition": "Corrida",
+    "federation": "FFA",
+    "date_start": "2027-12-26",
+    "date_end": null,
+    "venue": "Stade de la Beaujoire",
+    "address": "330 Route de Saint-Joseph, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/corrida-de-la-beaujoire",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Édition 2027 de la corrida de fin d'année autour du stade de la Beaujoire (ALPAC Nantes). Date non publiée.",
+    "tags": [
+      "Corrida",
+      "Noël"
+    ]
+  },
+  {
+    "title": "Rando du Muguet (vélo)",
+    "sport": "Cyclisme",
+    "category": "Course / épreuve participative",
+    "competition": "Randonnée vélo",
+    "federation": "FFVélo",
+    "date_start": "2027-04-25",
+    "date_end": null,
+    "venue": "Saint-Sébastien-sur-Loire",
+    "address": null,
+    "city": "Saint-Sébastien-sur-Loire",
+    "url": "https://fr.milesrepublic.com/rando-velo-de-route/loire-atlantique",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Randonnée cyclotouriste sur route (10 à 100 km). Annoncée en avril 2027, jour à confirmer.",
+    "tags": [
+      "Vélo",
+      "Cyclotourisme"
+    ]
+  },
+  {
+    "title": "Rand'Orvault (vélo)",
+    "sport": "Cyclisme",
+    "category": "Course / épreuve participative",
+    "competition": "Randonnée vélo",
+    "federation": "FFVélo",
+    "date_start": "2027-06-06",
+    "date_end": null,
+    "venue": "Orvault",
+    "address": null,
+    "city": "Orvault",
+    "url": "https://fr.milesrepublic.com/rando-velo-de-route/loire-atlantique",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Randonnée vélo route (11 à 100 km). Annoncée en juin 2027, jour à confirmer.",
+    "tags": [
+      "Vélo",
+      "Cyclotourisme"
+    ]
+  },
+  {
+    "title": "Direction l'Estuaire de la Loire (vélo)",
+    "sport": "Cyclisme",
+    "category": "Course / épreuve participative",
+    "competition": "Randonnée vélo",
+    "federation": "FFVélo",
+    "date_start": "2027-06-13",
+    "date_end": null,
+    "venue": "Bouguenais",
+    "address": null,
+    "city": "Bouguenais",
+    "url": "https://fr.milesrepublic.com/rando-velo-de-route/loire-atlantique",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Randonnée vélo de 100 km vers l'estuaire de la Loire. Annoncée en juin 2027, jour à confirmer.",
+    "tags": [
+      "Vélo",
+      "Loire"
+    ]
+  },
+  {
+    "title": "Le Tour du 44 – BRM 400 km",
+    "sport": "Cyclisme",
+    "category": "Course / épreuve participative",
+    "competition": "Brevet randonneur (BRM)",
+    "federation": null,
+    "date_start": "2027-07-03",
+    "date_end": null,
+    "venue": "Saint-Herblain",
+    "address": null,
+    "city": "Saint-Herblain",
+    "url": "https://fr.milesrepublic.com/rando-velo-de-route/loire-atlantique",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Brevet de randonneur mondial (BRM) de 404 km autour de la Loire-Atlantique. Annoncé en juillet 2027, jour à confirmer.",
+    "tags": [
+      "Vélo",
+      "Ultra-distance",
+      "Audax"
+    ]
+  },
+  {
+    "title": "Audax 150 km et autres allures – Tour de Nantes",
+    "sport": "Cyclisme",
+    "category": "Course / épreuve participative",
+    "competition": "Audax",
+    "federation": null,
+    "date_start": "2027-09-05",
+    "date_end": null,
+    "venue": "Saint-Sébastien-sur-Loire",
+    "address": null,
+    "city": "Saint-Sébastien-sur-Loire",
+    "url": "https://fr.milesrepublic.com/event/audax-150-km-et-autres-allures-tour-de-nantes-11762",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Tour de l'agglomération nantaise à vélo en allure Audax (150 km) ou libre. Édition 2026 en septembre ; date 2027 non publiée.",
+    "tags": [
+      "Vélo",
+      "Audax"
+    ]
+  }
+]

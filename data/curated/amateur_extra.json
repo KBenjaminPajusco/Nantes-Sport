@@ -1,0 +1,276 @@
+[
+  {
+    "title": "Run with ESN Nantes",
+    "sport": "Course à pied",
+    "category": "Sport universitaire",
+    "competition": "Course étudiante",
+    "federation": null,
+    "date_start": "2026-11-22",
+    "date_end": null,
+    "venue": "Nantes",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://running.life/fr/evenement/run-with-esn-nantes/2026-11-22",
+    "price": null,
+    "tentative": false,
+    "description": "Course conviviale de 6 km organisée par l'Erasmus Student Network Nantes pour les étudiants internationaux et locaux.",
+    "tags": [
+      "Étudiants",
+      "ESN",
+      "Running"
+    ]
+  },
+  {
+    "title": "Stage de Tuishou avec Naxo",
+    "sport": "Arts martiaux (Tuishou)",
+    "category": "Activité / initiation",
+    "competition": null,
+    "federation": null,
+    "date_start": "2027-01-30T09:00",
+    "date_end": "2027-01-31T18:30",
+    "venue": "Gymnase Géraudière",
+    "address": "29 Rue Santos Dumont, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.taoevenements.fr/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Stage de Tuishou (poussée des mains, arts martiaux internes) avec Naxo, multiple champion du monde. Inscription obligatoire.",
+    "tags": [
+      "Arts martiaux",
+      "Stage",
+      "Tai-chi"
+    ]
+  },
+  {
+    "title": "Atlantic'Trail – Relais 80 km entreprises",
+    "sport": "Trail",
+    "category": "Sport entreprise",
+    "competition": "Relais entreprises",
+    "federation": null,
+    "date_start": "2027-02-27",
+    "date_end": null,
+    "venue": "Rezé (départ)",
+    "address": null,
+    "city": "Rezé",
+    "url": "https://www.atlantic-trail.fr",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Relais de 80 km entre collègues de Rezé à Pornic, de la nuit au lever du soleil, dans le cadre de l'Atlantic'Trail.",
+    "tags": [
+      "Entreprises",
+      "Relais",
+      "Trail"
+    ]
+  },
+  {
+    "title": "Rencontre Tuishou « Nantes capitale du Tuishou »",
+    "sport": "Arts martiaux (Tuishou)",
+    "category": "Activité / initiation",
+    "competition": null,
+    "federation": null,
+    "date_start": "2027-04-10T09:30",
+    "date_end": "2027-04-10T17:30",
+    "venue": "Gymnase Géraudière",
+    "address": "29 Rue Santos Dumont, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/nantes-devient-a-nouveau-la-capitale-du-tuishou",
+    "price": "Payant (15 € la journée, 10 € la demi-journée)",
+    "tentative": false,
+    "description": "Rencontre de pratique libre de Tuishou ouverte à tous les niveaux (TAO Événements). Inscription obligatoire.",
+    "tags": [
+      "Arts martiaux",
+      "Pratique libre"
+    ]
+  },
+  {
+    "title": "Raid Polytech Nantes",
+    "sport": "Raid multisport",
+    "category": "Sport universitaire",
+    "competition": "Raid",
+    "federation": null,
+    "date_start": "2027-04-10",
+    "date_end": null,
+    "venue": "Nantes",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://fr.milesrepublic.com/es/event/raid-polytech-nantes-10954",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Raid multisport organisé par les étudiants de Polytech Nantes. Annoncé en avril 2027, date et lieu exacts à confirmer.",
+    "tags": [
+      "Raid",
+      "Étudiants",
+      "Multisport"
+    ]
+  },
+  {
+    "title": "Festinautic",
+    "sport": "Nautisme",
+    "category": "Activité / initiation",
+    "competition": null,
+    "federation": null,
+    "date_start": "2027-04-10",
+    "date_end": null,
+    "venue": "Nantes",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/services/culture-loisirs-sports/abonnements-tarifs/base-nautique-inscription",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Découverte gratuite des activités nautiques (7 à 77 ans) proposée par le Centre nautique nantais. Rendez-vous annuel d'avril, date 2027 non publiée.",
+    "tags": [
+      "Nautisme",
+      "Initiation",
+      "Gratuit"
+    ]
+  },
+  {
+    "title": "Cité Foot – tournoi interclubs 10-11 ans",
+    "sport": "Football",
+    "category": "Tournoi amateur",
+    "competition": "Tournoi jeunes",
+    "federation": "FFF",
+    "date_start": "2027-04-14T09:00",
+    "date_end": "2027-04-14T18:00",
+    "venue": "Stade Marcel-Saupin",
+    "address": "Allée Jacques Berque, 44000 Nantes",
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/cite-foot-tournoi-interclubs-10-11-ans",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Tournoi amical des 16 clubs nantais signataires du Plan Cité Foot pour les 10-11 ans. Date 2027 non publiée (édition 2026 : mercredi 15 avril).",
+    "tags": [
+      "Football",
+      "Jeunes",
+      "Gratuit"
+    ]
+  },
+  {
+    "title": "Marathon Relais Entreprises (Abalone Marathon de Nantes)",
+    "sport": "Course à pied",
+    "category": "Sport entreprise",
+    "competition": "Relais entreprises",
+    "federation": "FFA",
+    "date_start": "2027-04-25",
+    "date_end": null,
+    "venue": "Les Nefs des Machines de l'Île",
+    "address": "4 Boulevard Léon Bureau, 44200 Nantes",
+    "city": "Nantes",
+    "url": "https://www.marathondenantes.com/",
+    "price": "Payant (430 € HT par équipe en 2026)",
+    "tentative": false,
+    "description": "Marathon en relais par équipes d'entreprise de 4 coureurs (tronçons de 9 à 12 km) pendant le Marathon de Nantes.",
+    "tags": [
+      "Entreprises",
+      "Relais",
+      "Marathon"
+    ]
+  },
+  {
+    "title": "Estives – Nantes Terrain de Jeux",
+    "sport": "Multisport",
+    "category": "Activité / initiation",
+    "competition": null,
+    "federation": null,
+    "date_start": "2027-07-01",
+    "date_end": "2027-08-31",
+    "venue": "Différents spots de Nantes",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/que-faire-a-nantes/les-rendez-vous-sportifs-dans-la-metropole",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Programme estival gratuit d'activités encadrées (glisse urbaine, sports nature, sports urbains) dans l'espace public. Dates 2027 non publiées.",
+    "tags": [
+      "Été",
+      "Gratuit",
+      "Sports urbains"
+    ]
+  },
+  {
+    "title": "Sport au Parc",
+    "sport": "Multisport",
+    "category": "Activité / initiation",
+    "competition": null,
+    "federation": null,
+    "date_start": "2027-07-01",
+    "date_end": "2027-08-31",
+    "venue": "Parcs nantais",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/que-faire-a-nantes/les-rendez-vous-sportifs-dans-la-metropole",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Activités sportives et culturelles gratuites dans les parcs nantais pendant l'été. Dates 2027 non publiées.",
+    "tags": [
+      "Été",
+      "Gratuit",
+      "Parcs"
+    ]
+  },
+  {
+    "title": "Les Rendez-vous de l'Erdre",
+    "sport": "Voile / nautisme",
+    "category": "Événement communautaire",
+    "competition": null,
+    "federation": null,
+    "date_start": "2027-08-23",
+    "date_end": "2027-08-29",
+    "venue": "Île de Versailles",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/rdv-erdre",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Festival de belle plaisance (rassemblement et navigation de bateaux du patrimoine sur l'Erdre) et de jazz, de Nantes à Nort-sur-Erdre. Dates 2027 non publiées (fin août ; 2026 : 24-30 août).",
+    "tags": [
+      "Voile",
+      "Erdre",
+      "Belle plaisance",
+      "Festival"
+    ]
+  },
+  {
+    "title": "Sentez-vous sport",
+    "sport": "Multisport",
+    "category": "Événement communautaire",
+    "competition": null,
+    "federation": null,
+    "date_start": "2027-09-11",
+    "date_end": "2027-09-12",
+    "venue": "Parc des Chantiers",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://metropole.nantes.fr/que-faire-a-nantes/les-rendez-vous-sportifs-dans-la-metropole",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Week-end de promotion de la pratique sportive et de la santé (démonstrations, initiations par les clubs). Date 2027 non publiée (septembre).",
+    "tags": [
+      "Initiation",
+      "Clubs",
+      "Gratuit"
+    ]
+  },
+  {
+    "title": "Les Foulées de la Tech",
+    "sport": "Course à pied",
+    "category": "Sport entreprise",
+    "competition": "Course inter-entreprises",
+    "federation": null,
+    "date_start": "2027-09-19",
+    "date_end": null,
+    "venue": "Parc des Chantiers",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.finishers.com/course/les-foulees-de-la-tech",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Course inter-entreprises solidaire de 5 km de l'écosystème tech & innovation nantais. Date relevée sur marathons.com, à confirmer.",
+    "tags": [
+      "Entreprises",
+      "Tech",
+      "Solidaire",
+      "5 km"
+    ]
+  }
+]

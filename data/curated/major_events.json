@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Réunion hippique au Petit Port",
+    "sport": "Sport hippique",
+    "category": "Spectacle sportif",
+    "competition": "Courses hippiques",
+    "federation": null,
+    "date_start": "2026-11-23T12:00",
+    "date_end": null,
+    "venue": "Hippodrome du Petit Port",
+    "address": "Boulevard des Tribunes, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.hippodrome-nantes.fr/calendrier-et-resultats-des-courses",
+    "price": "Payant (5 € en ligne, 6 € sur place, gratuit -18 ans)",
+    "tentative": false,
+    "description": "Journée de courses à l'hippodrome de Nantes (calendrier officiel 2026). Horaires confirmés à J-2.",
+    "tags": [
+      "Hippodrome",
+      "Courses hippiques"
+    ]
+  },
+  {
+    "title": "Réunion hippique au Petit Port",
+    "sport": "Sport hippique",
+    "category": "Spectacle sportif",
+    "competition": "Courses hippiques",
+    "federation": null,
+    "date_start": "2026-11-30T13:15",
+    "date_end": null,
+    "venue": "Hippodrome du Petit Port",
+    "address": "Boulevard des Tribunes, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.hippodrome-nantes.fr/calendrier-et-resultats-des-courses",
+    "price": "Payant (5 € en ligne, 6 € sur place, gratuit -18 ans)",
+    "tentative": false,
+    "description": "Journée de courses à l'hippodrome de Nantes (calendrier officiel 2026). Horaires confirmés à J-2.",
+    "tags": [
+      "Hippodrome",
+      "Courses hippiques"
+    ]
+  },
+  {
+    "title": "Réunion hippique & marché de Noël au Petit Port",
+    "sport": "Sport hippique",
+    "category": "Spectacle sportif",
+    "competition": "Courses hippiques",
+    "federation": null,
+    "date_start": "2026-12-06T13:15",
+    "date_end": null,
+    "venue": "Hippodrome du Petit Port",
+    "address": "Boulevard des Tribunes, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.hippodrome-nantes.fr/calendrier-et-resultats-des-courses",
+    "price": "Payant (5 € en ligne, 6 € sur place, gratuit -18 ans)",
+    "tentative": false,
+    "description": "Journée de courses couplée au marché de Noël de l'hippodrome (calendrier officiel 2026).",
+    "tags": [
+      "Hippodrome",
+      "Courses hippiques",
+      "Noël"
+    ]
+  },
+  {
+    "title": "Réunion hippique au Petit Port",
+    "sport": "Sport hippique",
+    "category": "Spectacle sportif",
+    "competition": "Courses hippiques",
+    "federation": null,
+    "date_start": "2026-12-14T13:15",
+    "date_end": null,
+    "venue": "Hippodrome du Petit Port",
+    "address": "Boulevard des Tribunes, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.hippodrome-nantes.fr/calendrier-et-resultats-des-courses",
+    "price": "Payant (5 € en ligne, 6 € sur place, gratuit -18 ans)",
+    "tentative": false,
+    "description": "Dernière journée de courses 2026 à l'hippodrome de Nantes (calendrier officiel 2026).",
+    "tags": [
+      "Hippodrome",
+      "Courses hippiques"
+    ]
+  },
+  {
+    "title": "Meeting International de Nantes (athlétisme en salle)",
+    "sport": "Athlétisme",
+    "category": "Grand événement",
+    "competition": "World Athletics Indoor Tour (Bronze)",
+    "federation": "FFA",
+    "date_start": "2027-01-22",
+    "date_end": null,
+    "venue": "Stadium Pierre-Quinon",
+    "address": "Rue du Fresche Blanc, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://nmathle.fr/billetterie-meeting/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Meeting international en salle, étape du World Athletics Indoor Tour (label Bronze), organisé par Nantes Métropole Athlétisme.",
+    "tags": [
+      "Athlétisme",
+      "Indoor",
+      "International"
+    ]
+  },
+  {
+    "title": "Open Engie Nantes Atlantique (tennis féminin)",
+    "sport": "Tennis",
+    "category": "Grand événement",
+    "competition": "ITF World Tennis Tour W50",
+    "federation": "FFT",
+    "date_start": "2027-03-28",
+    "date_end": "2027-04-03",
+    "venue": "SNUC Tennis",
+    "address": "Boulevard des Anglais, 44100 Nantes",
+    "city": "Nantes",
+    "url": "https://open-nantes.fr/",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Tournoi international féminin du circuit ITF (W50) au SNUC, boulevard des Anglais.",
+    "tags": [
+      "Tennis",
+      "ITF",
+      "International",
+      "Féminin"
+    ]
+  },
+  {
+    "title": "Mondial de la Saint-Pierre (football U15)",
+    "sport": "Football",
+    "category": "Grand événement",
+    "competition": "Tournoi international U15",
+    "federation": "FFF",
+    "date_start": "2027-04-14",
+    "date_end": "2027-04-17",
+    "venue": "Stade de la Saint-Pierre",
+    "address": "Rue du Port-Boyer, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.mondialdelasaintpierre.fr/",
+    "price": "Gratuit",
+    "tentative": true,
+    "description": "Tournoi international de football des moins de 15 ans organisé chaque année depuis 1978 par La Saint-Pierre de Nantes. Dates 2027 non publiées (édition 2026 : 15-18 avril).",
+    "tags": [
+      "Football",
+      "Jeunes",
+      "International"
+    ]
+  },
+  {
+    "title": "Hexagone MMA – Nantes",
+    "sport": "MMA",
+    "category": "Grand événement",
+    "competition": "Hexagone MMA",
+    "federation": null,
+    "date_start": "2027-06-11",
+    "date_end": null,
+    "venue": "Zénith Nantes Métropole",
+    "address": "1 Boulevard du Zénith, 44800 Saint-Herblain",
+    "city": "Saint-Herblain",
+    "url": "https://feverup.com/m/611288/en",
+    "price": "Payant",
+    "tentative": false,
+    "description": "Soirée de MMA professionnel de l'organisation Hexagone MMA (diffusion RMC Sport/DAZN). Billetterie pas encore ouverte (liste d'attente).",
+    "tags": [
+      "MMA",
+      "Sports de combat",
+      "Gala"
+    ]
+  },
+  {
+    "title": "Nantes International Challenge (badminton)",
+    "sport": "Badminton",
+    "category": "Grand événement",
+    "competition": "BWF International Challenge",
+    "federation": "FFBaD",
+    "date_start": "2027-06-17",
+    "date_end": "2027-06-20",
+    "venue": "Salle sportive métropolitaine de la Trocardière",
+    "address": "Rue de la Trocardière, 44400 Rezé",
+    "city": "Rezé",
+    "url": "https://en.wikipedia.org/wiki/Nantes_International",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Tournoi international (Badminton Europe / BWF International Challenge) organisé à la Trocardière depuis 2022. Dates 2027 non publiées (habituellement mi-juin).",
+    "tags": [
+      "Badminton",
+      "International"
+    ]
+  },
+  {
+    "title": "Open International de Squash de Nantes",
+    "sport": "Squash",
+    "category": "Grand événement",
+    "competition": "PSA World Tour",
+    "federation": "FFSquash",
+    "date_start": "2027-09-14",
+    "date_end": "2027-09-19",
+    "venue": "Lieu à confirmer",
+    "address": null,
+    "city": "Nantes",
+    "url": "https://www.opensquashnantes.fr/",
+    "price": "Payant",
+    "tentative": true,
+    "description": "Tournoi professionnel du PSA World Tour organisé chaque année en septembre à Nantes (Hangar 24 lors des dernières éditions documentées). Dates et lieu 2027 non publiés.",
+    "tags": [
+      "Squash",
+      "PSA",
+      "International"
+    ]
+  },
+  {
+    "title": "Grand Prix de Nantes (galop)",
+    "sport": "Sport hippique",
+    "category": "Spectacle sportif",
+    "competition": "Défi du Galop (Listed)",
+    "federation": null,
+    "date_start": "2027-11-01",
+    "date_end": null,
+    "venue": "Hippodrome du Petit Port",
+    "address": "Boulevard des Tribunes, 44300 Nantes",
+    "city": "Nantes",
+    "url": "https://www.france-galop.com/sites/default/files/2026-03/calendrier_et_declarations_defi_du_galop_2026.pdf",
+    "price": "Payant (5 € en ligne, 6 € sur place, gratuit -18 ans)",
+    "tentative": true,
+    "description": "Course de galop Listed, étape du Défi du Galop (2 400 m). Date 2027 non publiée (édition 2026 : lundi 2 novembre).",
+    "tags": [
+      "Hippodrome",
+      "Galop",
+      "Grand Prix"
+    ]
+  }
+]
